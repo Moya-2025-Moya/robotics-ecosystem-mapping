@@ -1,0 +1,98 @@
+{
+ "L2-EMP-01": {
+  "name_en": "Synthetic Data / Simulation Pipeline Engineer",
+  "do_en": "Build data pipelines for simulation and synthetic data firms. This covers sensor simulation, domain randomization, and auto-generated labeled training data. The data feeds client perception and manipulation models.",
+  "skills_must_en": ["Python", "Data pipelines", "Domain randomization", "Sensor and labeling workflows", "Computational geometry"],
+  "skills_nice_en": ["Unreal/Unity", "CV/ML", "Cloud batch processing"],
+  "week_en": "Monday: align on data requirements. Tuesday to Thursday: build and tune pipelines, then generate and quality-check datasets. Friday: deliver data and tune generation parameters.",
+  "entry_time_en": "3-6 months with a data or Python engineering background.",
+  "barrier_en": "Requires software engineering skill, though a PhD is not required. Competition is intense.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Generative world models may replace hand-built synthetic data pipelines.",
+  "next_en": "12-24 months to senior simulation platform engineer, or freelance synthetic data contracting (L2-SOLO-01)."
+ },
+ "L2-EMP-02": {
+  "name_en": "Simulation Software Engineer (Game Engines)",
+  "do_en": "Build robot simulation environments and engine features in Unreal, Unity, or Omniverse. This work supports sim-to-real training and validation.",
+  "skills_must_en": ["C++/Python", "Game engine and simulation programming", "Rendering or physics modeling"],
+  "skills_nice_en": ["RL", "Domain randomization", "Sim-to-real"],
+  "week_en": "Monday: plan the schedule. Tuesday to Thursday: build engine and environment features, then fix bugs. Friday: code review and integration testing.",
+  "entry_time_en": "3-6 months with an engine or game programming background.",
+  "barrier_en": "Requires strong C++ and engine skills. Moving from games is feasible.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Engine vendor tools plus AI-assisted coding cut headcount needs.",
+  "next_en": "12-24 months to simulation team lead, or selling simulation assets solo (L2-SOLO-02)."
+ },
+ "L2-EMP-03": {
+  "name_en": "Simulation Solutions Architect (Omniverse/Isaac/Digital Twin)",
+  "do_en": "Deploy Isaac Sim, Omniverse, and digital twin solutions for clients and partners. Build scenes, run integrations, and deliver enablement demos. The role leans toward DevRel plus solutions.",
+  "skills_must_en": ["Isaac Sim/Lab", "OpenUSD", "ROS2", "Python and C++"],
+  "skills_nice_en": ["3D content", "Client presentations", "Partner management"],
+  "week_en": "Monday: gather client requirements. Tuesday to Thursday: build demo scenes and integrate robot algorithms. Friday: run client enablement and feed feedback to NVIDIA product lines.",
+  "entry_time_en": "3-9 months to master the Omniverse and USD stack.",
+  "barrier_en": "Requires Omniverse and USD expertise plus client communication skills.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Demand falls if the Omniverse environment contracts.",
+  "next_en": "12-24 months to solutions manager, or independent Omniverse consultant."
+ },
+ "L2-MICRO-01": {
+  "name_en": "World Model / Simulation Environment Micro-Startup (Policy Evaluation)",
+  "do_en": "A team of 1-5 builds world models or simulation environments. These train and evaluate robot policies, such as cloth or packing tasks. Sell access or evaluation services.",
+  "skills_must_en": ["World models and simulation", "Manipulation task modeling", "Training and evaluation infrastructure"],
+  "skills_nice_en": ["Fundraising", "RL", "Growth"],
+  "week_en": "Monday: set R&D priorities. Tuesday to Thursday: build simulation tasks and evaluation pipelines. Friday: meet clients and investors, then ship a demo.",
+  "entry_time_en": "6-12 months to a demonstrable product.",
+  "barrier_en": "High technical bar. Mostly venture-driven with no early revenue.",
+  "revenue_src_en": "Seed funding and early contracts (founder salary)",
+  "risk_en": "Large-vendor world models like NVIDIA Cosmos squeeze the space. Technical risk is high.",
+  "next_en": "12-24 months to a funded simulation or world model company via a seed round."
+ },
+ "L2-MICRO-02": {
+  "name_en": "Manufacturing Synthetic Data + Simulation CV Micro-Startup",
+  "do_en": "A team of 1-5 builds synthetic data and simulation CV products for manufacturing. Clients shoot less real data while still training defect detection and grasping models.",
+  "skills_must_en": ["Synthetic data generation", "Simulation", "Edge CV deployment"],
+  "skills_nice_en": ["Manufacturing domain knowledge", "Sales"],
+  "week_en": "Monday: meet clients. Tuesday to Thursday: generate data, train models, and deploy edge CV. Friday: run client acceptance and iterate.",
+  "entry_time_en": "6-12 months.",
+  "barrier_en": "Requires CV plus manufacturing know-how and early clients.",
+  "revenue_src_en": "Product and project revenue",
+  "risk_en": "General CV and foundation models erode demand for custom synthetic data.",
+  "next_en": "12-24 months to a vertical manufacturing AI inspection company."
+ },
+ "L2-SOLO-01": {
+  "name_en": "Freelance Robot Simulation Engineer (Isaac/Gazebo/ROS2)",
+  "do_en": "Take jobs on Upwork to build simulation environments, model URDF, and run navigation or manipulation simulation. Also handle synthetic data pipelines.",
+  "skills_must_en": ["ROS2", "Isaac Sim/Gazebo", "URDF/Xacro", "Nav2 and motion planning"],
+  "skills_nice_en": ["Domain randomization", "CV", "Client communication"],
+  "week_en": "Monday: submit bids. Tuesday to Thursday: build simulations, model, and tune parameters. Friday: deliver, record a demo video, and review.",
+  "entry_time_en": "1-3 months to build a profile and case studies.",
+  "barrier_en": "Requires a portfolio. Platform takes a cut. Needs a strong GPU machine.",
+  "revenue_src_en": "Freelance contracts",
+  "risk_en": "AI assistance lowers the bar and cuts prices. Simulation-as-a-service platforms emerge.",
+  "next_en": "12-24 months to a simulation studio, or joining a platform (L2-EMP)."
+ },
+ "L2-SOLO-02": {
+  "name_en": "SimReady / USD Digital Twin 3D Asset Seller",
+  "do_en": "Build and sell physics-ready SimReady USD assets and scenes on Omniverse, Unreal Fab, and Unity Asset Store. Robot teams buy them to build simulations. Income is passive plus custom work.",
+  "skills_must_en": ["OpenUSD modeling", "USDPhysics properties", "Semantic labeling", "Modular scene modeling"],
+  "skills_nice_en": ["Materials and rendering", "Automated batch asset production"],
+  "week_en": "Monday to Wednesday: model and add physics and semantic properties. Thursday: publish and write docs. Friday: check sales, do custom orders, and update popular assets.",
+  "entry_time_en": "1-3 months to ship a first batch of assets.",
+  "barrier_en": "Requires 3D modeling skill. Long-tail passive income ramps slowly.",
+  "revenue_src_en": "Asset sales plus custom work",
+  "risk_en": "Generative 3D, where text creates assets, disrupts the hand-built asset market.",
+  "next_en": "12-24 months to a digital twin asset studio, or large-vendor custom contracts."
+ },
+ "L2-SOLO-03": {
+  "name_en": "MuJoCo / Isaac Lab Plugin and Sim-to-Real Developer",
+  "do_en": "Maintain MuJoCo and Isaac Lab plugins and RL sim-to-real tools on GitHub. Monetize through GitHub Sponsors, bounties, and consulting.",
+  "skills_must_en": ["MuJoCo C API", "MJCF", "GPU physics (Warp)", "RL", "Sim-to-real"],
+  "skills_nice_en": ["Docs and tutorials", "Community maintenance"],
+  "week_en": "Monday to Wednesday: develop plugins and handle issues and PRs. Thursday: release and write docs. Friday: take consulting jobs and maintain the sponsor page.",
+  "entry_time_en": "3-9 months to build project influence.",
+  "barrier_en": "Requires deep simulation and RL skill. Sponsor income ramps slowly.",
+  "revenue_src_en": "GitHub Sponsors, bounties, and consulting",
+  "risk_en": "Official tools absorb plugin features. Pure open-source monetization is hard.",
+  "next_en": "12-24 months to recruitment by a simulation company, or building a paid tool."
+ }
+}

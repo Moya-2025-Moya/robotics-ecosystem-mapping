@@ -1,0 +1,1830 @@
+{
+ "rev_ceiling": [
+  {
+   "rank": 1,
+   "id": "L1-EMP-02",
+   "name_en": "Field Deployment / Solutions Engineer (foundation-model robotics)",
+   "name_zh": "前置部署/解决方案工程师 (基础模型机器人公司)",
+   "layer": "L1",
+   "mode": "Employee",
+   "ceiling": "£326,800",
+   "src_en": "Salary + equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 2,
+   "id": "L1-SOLO-01",
+   "name_en": "Open-source VLA Fine-tuning Freelance Consultant",
+   "name_zh": "开源VLA微调自由顾问",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "ceiling": "£315,000",
+   "src_en": "Freelance contracts (hourly)",
+   "src_zh": "自由职业合同(时薪)"
+  },
+  {
+   "rank": 3,
+   "id": "L5-MICRO-01",
+   "name_en": "Robotics Fleet Integration Consulting (1-5 People)",
+   "name_zh": "机器人车队集成咨询 (1-5人)",
+   "layer": "L5",
+   "mode": "Micro-startup",
+   "ceiling": "£283,500",
+   "src_en": "Project fees and monthly retainers",
+   "src_zh": "项目+月度retainer"
+  },
+  {
+   "rank": 4,
+   "id": "L2-EMP-03",
+   "name_en": "Simulation Solutions Architect (Omniverse/Isaac/Digital Twin)",
+   "name_zh": "仿真解决方案架构师 (Omniverse/Isaac/数字孪生)",
+   "layer": "L2",
+   "mode": "Employee",
+   "ceiling": "£281,100",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 5,
+   "id": "L2-EMP-02",
+   "name_en": "Simulation Software Engineer (Game Engines)",
+   "name_zh": "仿真软件工程师 (游戏引擎)",
+   "layer": "L2",
+   "mode": "Employee",
+   "ceiling": "£248,000",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 6,
+   "id": "L2-EMP-01",
+   "name_en": "Synthetic Data / Simulation Pipeline Engineer",
+   "name_zh": "合成数据/仿真数据流水线工程师",
+   "layer": "L2",
+   "mode": "Employee",
+   "ceiling": "£236,200",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 7,
+   "id": "L3-MICRO-01-CN",
+   "name_en": "Robot Data Collection Factory Operator (China)",
+   "name_zh": "机器人数据采集工厂运营 (中国)(中国)",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "ceiling": "£236,200",
+   "src_en": "Bulk per-set contracts",
+   "src_zh": "按集大批量合同"
+  },
+  {
+   "rank": 8,
+   "id": "L3-MICRO-03",
+   "name_en": "Egocentric Collection Team Operations / Field Supervisor",
+   "name_zh": "第一视角采集 班组运营/外勤主管",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "ceiling": "£236,200",
+   "src_en": "Volume service margin",
+   "src_zh": "量产服务差价"
+  },
+  {
+   "rank": 9,
+   "id": "L6-MICRO-01",
+   "name_en": "Regional RaaS Reseller / Deployment Integrator",
+   "name_zh": "区域RaaS转售/部署集成商",
+   "layer": "L6",
+   "mode": "Micro-startup",
+   "ceiling": "£236,200",
+   "src_en": "RaaS subscription revenue share",
+   "src_zh": "RaaS订阅分成"
+  },
+  {
+   "rank": 10,
+   "id": "L6-MICRO-03",
+   "name_en": "Construction / Infrastructure Drone Service Company (1-5 people)",
+   "name_zh": "建筑/基础设施无人机服务公司 (1-5人)",
+   "layer": "L6",
+   "mode": "Micro-startup",
+   "ceiling": "£236,200",
+   "src_en": "Monthly retainer plus projects",
+   "src_zh": "月度retainer+项目"
+  },
+  {
+   "rank": 11,
+   "id": "L5-EMP-04",
+   "name_en": "Robotics DevOps/SRE and Functional Safety Engineer",
+   "name_zh": "机器人DevOps/SRE与功能安全工程师",
+   "layer": "L5",
+   "mode": "Employee",
+   "ceiling": "£199,200",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 12,
+   "id": "L1-EMP-01",
+   "name_en": "Robotics AI Developer Relations / Evangelist (DevRel)",
+   "name_zh": "机器人AI开发者关系/布道师 (DevRel)",
+   "layer": "L1",
+   "mode": "Employee",
+   "ceiling": "£196,900",
+   "src_en": "Salary + equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 13,
+   "id": "L4-MICRO-01-CN",
+   "name_en": "SO-ARM/LeRobot Kit and Parts Manufacturing and Resale (Shenzhen Supply Chain) (China)",
+   "name_zh": "SO-ARM/LeRobot 套件与零件制造转售 (深圳供应链)(中国)",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "ceiling": "£196,900",
+   "src_en": "Manufacturing sales margin",
+   "src_zh": "制造销售毛利"
+  },
+  {
+   "rank": 14,
+   "id": "L5-MICRO-02",
+   "name_en": "Vertical SaaS Micro-App on Viam/Formant",
+   "name_zh": "基于Viam/Formant的垂直SaaS微应用",
+   "layer": "L5",
+   "mode": "Micro-startup",
+   "ceiling": "£196,900",
+   "src_en": "SaaS subscriptions",
+   "src_zh": "SaaS订阅"
+  },
+  {
+   "rank": 15,
+   "id": "L6-SOLO-02",
+   "name_en": "Agricultural Robot Weeding Contractor (Weeding-as-a-Service)",
+   "name_zh": "农业机器人除草承包人 (除草即服务)",
+   "layer": "L6",
+   "mode": "Solo operator",
+   "ceiling": "£196,900",
+   "src_en": "Per-acre service fees",
+   "src_zh": "按英亩服务费"
+  },
+  {
+   "rank": 16,
+   "id": "L5-EMP-01",
+   "name_en": "Forward-Deployed / Solutions Engineer (Robotics Middleware)",
+   "name_zh": "前置部署/解决方案工程师 (机器人中间件)",
+   "layer": "L5",
+   "mode": "Employee",
+   "ceiling": "£185,000",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 17,
+   "id": "L3-EMP-05",
+   "name_en": "Data Platform / Data Infrastructure Engineer",
+   "name_zh": "数据平台/数据基建工程师 (机器人)",
+   "layer": "L3",
+   "mode": "Employee",
+   "ceiling": "£161,400",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 18,
+   "id": "L5-EMP-02",
+   "name_en": "Robotics Software Engineer (ROS2, Non-PhD Path)",
+   "name_zh": "机器人软件工程师 (ROS2, 非博士路径)",
+   "layer": "L5",
+   "mode": "Employee",
+   "ceiling": "£161,400",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 19,
+   "id": "L1-MICRO-01",
+   "name_en": "VLA Fine-tuning / Teleop-to-Policy Tooling Micro-startup",
+   "name_zh": "VLA微调/遥操作转策略 工具平台微创业",
+   "layer": "L1",
+   "mode": "Micro-startup",
+   "ceiling": "£157,500",
+   "src_en": "SaaS subscription / service fees",
+   "src_zh": "SaaS订阅/服务费"
+  },
+  {
+   "rank": 20,
+   "id": "L1-MICRO-02",
+   "name_en": "VLA Fine-tuning-as-a-Service Studio",
+   "name_zh": "VLA微调即服务工作室",
+   "layer": "L1",
+   "mode": "Micro-startup",
+   "ceiling": "£157,500",
+   "src_en": "Project contract fees",
+   "src_zh": "项目合同费"
+  },
+  {
+   "rank": 21,
+   "id": "L2-MICRO-02",
+   "name_en": "Manufacturing Synthetic Data + Simulation CV Micro-Startup",
+   "name_zh": "制造业合成数据+仿真CV产品微创业",
+   "layer": "L2",
+   "mode": "Micro-startup",
+   "ceiling": "£157,500",
+   "src_en": "Product and project revenue",
+   "src_zh": "产品/项目收入"
+  },
+  {
+   "rank": 22,
+   "id": "L3-MICRO-02",
+   "name_en": "Motion-Capture-as-a-Service Boutique Studio",
+   "name_zh": "动作捕捉即服务 精品工作室",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "ceiling": "£157,500",
+   "src_en": "Per-session or per-project pay",
+   "src_zh": "按场/按项目"
+  },
+  {
+   "rank": 23,
+   "id": "L5-SOLO-01",
+   "name_en": "Freelance ROS/ROS2 Software Developer",
+   "name_zh": "自由ROS/ROS2 软件开发者",
+   "layer": "L5",
+   "mode": "Solo operator",
+   "ceiling": "£157,500",
+   "src_en": "Freelance contracts",
+   "src_zh": "自由职业合同"
+  },
+  {
+   "rank": 24,
+   "id": "L6-EMP-03",
+   "name_en": "RaaS Customer Success / Deployment Manager",
+   "name_zh": "RaaS客户成功/部署经理",
+   "layer": "L6",
+   "mode": "Employee",
+   "ceiling": "£150,600",
+   "src_en": "Wage plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 25,
+   "id": "L1-SOLO-04",
+   "name_en": "Embodied Red Team / VLA Evaluation Benchmark Builder",
+   "name_zh": "具身红队 / VLA评测基准搭建者",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "ceiling": "£149,600",
+   "src_en": "Contracts / bounties",
+   "src_zh": "合同/赏金"
+  },
+  {
+   "rank": 26,
+   "id": "L6-MICRO-02",
+   "name_en": "Vertical Robot Adoption Consultant for SMBs",
+   "name_zh": "面向中小企业的垂直机器人采用顾问",
+   "layer": "L6",
+   "mode": "Micro-startup",
+   "ceiling": "£141,700",
+   "src_en": "Consulting fees or retainer",
+   "src_zh": "咨询费/retainer"
+  },
+  {
+   "rank": 27,
+   "id": "L3-EMP-02",
+   "name_en": "Data Operations Manager / Human Data Strategist",
+   "name_zh": "数据运营经理/人类数据策略师",
+   "layer": "L3",
+   "mode": "Employee",
+   "ceiling": "£129,900",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 28,
+   "id": "L4-EMP-04",
+   "name_en": "Hardware Application / Integration Engineer (Dexterous Hands / Sensors)",
+   "name_zh": "硬件应用/集成工程师 (灵巧手/传感器)",
+   "layer": "L4",
+   "mode": "Employee",
+   "ceiling": "£129,100",
+   "src_en": "Wage plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 29,
+   "id": "L5-EMP-03",
+   "name_en": "Robotics Technical / Application Support Engineer (AMR Fleets)",
+   "name_zh": "机器人技术/应用支持工程师 (AMR车队)",
+   "layer": "L5",
+   "mode": "Employee",
+   "ceiling": "£129,100",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 30,
+   "id": "L2-SOLO-01",
+   "name_en": "Freelance Robot Simulation Engineer (Isaac/Gazebo/ROS2)",
+   "name_zh": "自由机器人仿真工程师 (Isaac/Gazebo/ROS2)",
+   "layer": "L2",
+   "mode": "Solo operator",
+   "ceiling": "£126,000",
+   "src_en": "Freelance contracts",
+   "src_zh": "自由职业合同"
+  },
+  {
+   "rank": 31,
+   "id": "L1-SOLO-03",
+   "name_en": "Robotics / Embodied AI Educator and Content Creator",
+   "name_zh": "机器人/具身AI 教育者与内容创作者",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "ceiling": "£118,100",
+   "src_en": "Ads / course sales / sponsorships",
+   "src_zh": "广告/课程销售/赞助"
+  },
+  {
+   "rank": 32,
+   "id": "L2-MICRO-01",
+   "name_en": "World Model / Simulation Environment Micro-Startup (Policy Evaluation)",
+   "name_zh": "世界模型/仿真环境微创业 (策略评测)",
+   "layer": "L2",
+   "mode": "Micro-startup",
+   "ceiling": "£118,100",
+   "src_en": "Seed funding and early contracts (founder salary)",
+   "src_zh": "种子融资/早期合同(创始人工资)"
+  },
+  {
+   "rank": 33,
+   "id": "L3-MICRO-05",
+   "name_en": "Annotation / Quality-Check Micro Vendor",
+   "name_zh": "标注/质检 微型供应商",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "ceiling": "£118,100",
+   "src_en": "Subcontract contracts",
+   "src_zh": "分包合同"
+  },
+  {
+   "rank": 34,
+   "id": "L6-SOLO-01",
+   "name_en": "Part 107 Drone Inspection / Mapping Solo Operator",
+   "name_zh": "Part 107无人机巡检/测绘服务个体",
+   "layer": "L6",
+   "mode": "Solo operator",
+   "ceiling": "£118,100",
+   "src_en": "Per-hour, per-project, or per-acre fees",
+   "src_zh": "按小时/项目/英亩"
+  },
+  {
+   "rank": 35,
+   "id": "L6-SOLO-03",
+   "name_en": "Autonomous Floor Scrubber Owner-Operator (Cleaning Service)",
+   "name_zh": "自主洗地机 业主-操作员 (清洁服务)",
+   "layer": "L6",
+   "mode": "Solo operator",
+   "ceiling": "£118,100",
+   "src_en": "Cleaning contracts (by area)",
+   "src_zh": "清洁合同(按面积)"
+  },
+  {
+   "rank": 36,
+   "id": "L6-EMP-04",
+   "name_en": "Commercial Drone Operator / Part 107 Pilot (Employed)",
+   "name_zh": "商用无人机操作员/Part 107飞手 (受雇)",
+   "layer": "L6",
+   "mode": "Employee",
+   "ceiling": "£106,800",
+   "src_en": "Hourly wage",
+   "src_zh": "工资(时薪)"
+  },
+  {
+   "rank": 37,
+   "id": "L3-SOLO-06",
+   "name_en": "Freelance Motion Capture Collector",
+   "name_zh": "自由动作捕捉采集师 (Rokoko/Xsens)",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£94,500",
+   "src_en": "Per-job or hourly pay",
+   "src_zh": "按单/时薪"
+  },
+  {
+   "rank": 38,
+   "id": "L3-MICRO-01-WEST",
+   "name_en": "Micro Teleoperation Data Studio (West)",
+   "name_zh": "微型遥操作数据工作室 (西方)(西方)",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "ceiling": "£94,500",
+   "src_en": "Per-set or per-batch contracts",
+   "src_zh": "按集/批次合同"
+  },
+  {
+   "rank": 39,
+   "id": "L4-MICRO-01-WEST",
+   "name_en": "SO-ARM/LeRobot Kit Assembly, Resale, and Bundling (West)",
+   "name_zh": "SO-ARM/LeRobot 套件组装转售与打包 (西方)(西方)",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "ceiling": "£94,500",
+   "src_en": "Hardware sales margin",
+   "src_zh": "硬件销售毛利"
+  },
+  {
+   "rank": 40,
+   "id": "L4-MICRO-02",
+   "name_en": "3D-Printed Robot Parts / STL Seller",
+   "name_zh": "3D打印机器人零件/STL 卖家",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "ceiling": "£94,500",
+   "src_en": "Physical part and STL sales",
+   "src_zh": "实体件/STL销售"
+  },
+  {
+   "rank": 41,
+   "id": "L4-SOLO-02",
+   "name_en": "Open-Source Hardware Kit Community / Developer Relations (Contract)",
+   "name_zh": "开源硬件套件 社区/开发者关系 (合约)",
+   "layer": "L4",
+   "mode": "Solo operator",
+   "ceiling": "£94,500",
+   "src_en": "Contract fees plus sponsorship and affiliate income",
+   "src_zh": "合约费+赞助/联盟"
+  },
+  {
+   "rank": 42,
+   "id": "L3-EMP-04",
+   "name_en": "Data Contributor Recruiting / Community Operations",
+   "name_zh": "数据贡献者招募/社区运营",
+   "layer": "L3",
+   "mode": "Employee",
+   "ceiling": "£86,600",
+   "src_en": "Salary plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 43,
+   "id": "L4-EMP-03",
+   "name_en": "Robot Field Service Engineer",
+   "name_zh": "机器人现场服务工程师",
+   "layer": "L4",
+   "mode": "Employee",
+   "ceiling": "£85,800",
+   "src_en": "Wage plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 44,
+   "id": "L6-EMP-02",
+   "name_en": "Vertical Robot Field Deployment / Service Technician",
+   "name_zh": "垂直机器人 现场部署/服务技术员",
+   "layer": "L6",
+   "mode": "Employee",
+   "ceiling": "£83,500",
+   "src_en": "Wage plus equity",
+   "src_zh": "工资+股权"
+  },
+  {
+   "rank": 45,
+   "id": "L4-SOLO-01",
+   "name_en": "Freelance Robot CAD / 3D Printing Designer",
+   "name_zh": "自由机器人CAD/3D打印设计师",
+   "layer": "L4",
+   "mode": "Solo operator",
+   "ceiling": "£81,900",
+   "src_en": "Freelance contracts",
+   "src_zh": "自由职业合同"
+  },
+  {
+   "rank": 46,
+   "id": "L3-SOLO-07",
+   "name_en": "Freelance Data Annotation Contractor",
+   "name_zh": "自由数据标注/打标承包人",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£78,700",
+   "src_en": "Hourly or per-piece pay",
+   "src_zh": "按时/按件"
+  },
+  {
+   "rank": 47,
+   "id": "L6-EMP-01",
+   "name_en": "Remote Robot Operator / Takeover Intervention Specialist",
+   "name_zh": "远程机器人操作员/接管干预专员",
+   "layer": "L6",
+   "mode": "Employee",
+   "ceiling": "£74,800",
+   "src_en": "Hourly wage",
+   "src_zh": "工资(时薪)"
+  },
+  {
+   "rank": 48,
+   "id": "L2-SOLO-02",
+   "name_en": "SimReady / USD Digital Twin 3D Asset Seller",
+   "name_zh": "SimReady/USD 数字孪生3D资产卖家",
+   "layer": "L2",
+   "mode": "Solo operator",
+   "ceiling": "£69,300",
+   "src_en": "Asset sales plus custom work",
+   "src_zh": "资产销售(88%分成)+定制"
+  },
+  {
+   "rank": 49,
+   "id": "L4-EMP-01",
+   "name_en": "Humanoid Robot Operator / Teleoperation Data Pilot",
+   "name_zh": "人形机器人操作员/数据采集飞行员",
+   "layer": "L4",
+   "mode": "Employee",
+   "ceiling": "£65,400",
+   "src_en": "Hourly wage",
+   "src_zh": "工资(时薪)"
+  },
+  {
+   "rank": 50,
+   "id": "L4-MICRO-03",
+   "name_en": "Robot Accessory / Mounting Kit Maker",
+   "name_zh": "机器人配件/挂载套件制造商",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "ceiling": "£63,000",
+   "src_en": "Accessory sales margin",
+   "src_zh": "配件销售毛利"
+  },
+  {
+   "rank": 51,
+   "id": "L3-EMP-03",
+   "name_en": "Robot Data Annotator / Video Reviewer",
+   "name_zh": "机器人数据标注员/视频审核员 (受雇)",
+   "layer": "L3",
+   "mode": "Employee",
+   "ceiling": "£62,200",
+   "src_en": "Wage (hourly)",
+   "src_zh": "工资(时薪)"
+  },
+  {
+   "rank": 52,
+   "id": "L3-EMP-01",
+   "name_en": "Remote Teleoperation Operator",
+   "name_zh": "远程遥操作操作员 (受雇)",
+   "layer": "L3",
+   "mode": "Employee",
+   "ceiling": "£59,100",
+   "src_en": "Wage (hourly)",
+   "src_zh": "工资(时薪)"
+  },
+  {
+   "rank": 53,
+   "id": "L4-EMP-02",
+   "name_en": "Robot Assembly and Test Technician",
+   "name_zh": "机器人装配与测试技术员",
+   "layer": "L4",
+   "mode": "Employee",
+   "ceiling": "£54,400",
+   "src_en": "Wage",
+   "src_zh": "工资"
+  },
+  {
+   "rank": 54,
+   "id": "L3-SOLO-01-WEST",
+   "name_en": "Home Remote Teleoperation Data Collector (West)",
+   "name_zh": "居家远程遥操作数据采集员 (西方)(西方)",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£48,800",
+   "src_en": "Per-demo or hourly pay",
+   "src_zh": "按demo/时薪"
+  },
+  {
+   "rank": 55,
+   "id": "L1-SOLO-02",
+   "name_en": "Independent Embodied AI Researcher / LeRobot Contributor",
+   "name_zh": "独立具身AI研究者 / LeRobot贡献者",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "ceiling": "£39,400",
+   "src_en": "Sponsorships / bounties / grants",
+   "src_zh": "赞助/赏金/grant"
+  },
+  {
+   "rank": 56,
+   "id": "L2-SOLO-03",
+   "name_en": "MuJoCo / Isaac Lab Plugin and Sim-to-Real Developer",
+   "name_zh": "MuJoCo/Isaac Lab 插件与sim-to-real开发者",
+   "layer": "L2",
+   "mode": "Solo operator",
+   "ceiling": "£37,800",
+   "src_en": "GitHub Sponsors, bounties, and consulting",
+   "src_zh": "GitHub Sponsors+赏金+咨询"
+  },
+  {
+   "rank": 57,
+   "id": "L5-SOLO-03",
+   "name_en": "Open-Source Robotics Middleware Maintainer (GitHub Sponsors)",
+   "name_zh": "开源机器人中间件维护者 (GitHub Sponsors)",
+   "layer": "L5",
+   "mode": "Solo operator",
+   "ceiling": "£37,800",
+   "src_en": "Sponsorships, consulting, and bounties",
+   "src_zh": "Sponsors+咨询+赏金"
+  },
+  {
+   "rank": 58,
+   "id": "L3-SOLO-02",
+   "name_en": "Robot Demonstration Dataset Creator and Seller",
+   "name_zh": "机器人演示数据集制作与销售",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£31,500",
+   "src_en": "Dataset sales or bounties",
+   "src_zh": "数据集销售/赏金"
+  },
+  {
+   "rank": 59,
+   "id": "L5-SOLO-02",
+   "name_en": "Robotics Platform Plugin / Module Developer (Viam/Foxglove)",
+   "name_zh": "机器人平台插件/模块开发者 (Viam/Foxglove)",
+   "layer": "L5",
+   "mode": "Solo operator",
+   "ceiling": "£19,700",
+   "src_en": "Module distribution and resulting consulting",
+   "src_zh": "模块分发/带来的咨询"
+  },
+  {
+   "rank": 60,
+   "id": "L3-SOLO-03",
+   "name_en": "Egocentric Demonstration Video Gig Collector",
+   "name_zh": "第一视角演示视频 零工采集员",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£15,700",
+   "src_en": "Gig hourly pay",
+   "src_zh": "零工时薪"
+  },
+  {
+   "rank": 61,
+   "id": "L3-SOLO-01-CN",
+   "name_en": "On-Site Teleoperation Data Collector (China)",
+   "name_zh": "现场遥操作数据采集员 (中国数据工厂)(中国)",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£9,400",
+   "src_en": "Hourly or per-session wage",
+   "src_zh": "工时/场次工资"
+  },
+  {
+   "rank": 62,
+   "id": "L3-SOLO-04",
+   "name_en": "Crypto Teleoperation / Drive-to-Earn Data Operator [crypto]",
+   "name_zh": "加密遥操作/Drive-to-Earn 数据操作员 [crypto]",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£2,800",
+   "src_en": "Tokens / points (speculative)",
+   "src_zh": "代币/积分(投机)"
+  },
+  {
+   "rank": 63,
+   "id": "L3-SOLO-05",
+   "name_en": "Crypto-Incentivized Data Annotator [crypto]",
+   "name_zh": "加密激励数据标注员 (Codatta) [crypto]",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "ceiling": "£500",
+   "src_en": "Tokens / points / royalties (speculative)",
+   "src_zh": "代币/积分/版税(投机)"
+  },
+  {
+   "rank": 64,
+   "id": "L3-MICRO-04",
+   "name_en": "Crypto Teleoperation Guild Operator [crypto]",
+   "name_zh": "加密遥操作公会运营 (PrismaX) [crypto]",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "ceiling": "n/f",
+   "src_en": "Guild revenue share (speculative)",
+   "src_zh": "公会分成(投机)"
+  }
+ ],
+ "entry_cost": [
+  {
+   "rank": 1,
+   "id": "L1-EMP-02",
+   "name_en": "Field Deployment / Solutions Engineer (foundation-model robotics)",
+   "name_zh": "前置部署/解决方案工程师 (基础模型机器人公司)",
+   "layer": "L1",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "0-3 months (software/integration experience allows direct hiring)",
+   "time_zh": "0-3个月(有软件/集成经验可直接入职)"
+  },
+  {
+   "rank": 2,
+   "id": "L2-EMP-03",
+   "name_en": "Simulation Solutions Architect (Omniverse/Isaac/Digital Twin)",
+   "name_zh": "仿真解决方案架构师 (Omniverse/Isaac/数字孪生)",
+   "layer": "L2",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "3-9 months to master the Omniverse and USD stack.",
+   "time_zh": "3-9个月(需掌握Omniverse/USD栈)"
+  },
+  {
+   "rank": 3,
+   "id": "L2-EMP-02",
+   "name_en": "Simulation Software Engineer (Game Engines)",
+   "name_zh": "仿真软件工程师 (游戏引擎)",
+   "layer": "L2",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "3-6 months with an engine or game programming background.",
+   "time_zh": "3-6个月(有引擎/游戏编程背景)"
+  },
+  {
+   "rank": 4,
+   "id": "L2-EMP-01",
+   "name_en": "Synthetic Data / Simulation Pipeline Engineer",
+   "name_zh": "合成数据/仿真数据流水线工程师",
+   "layer": "L2",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "3-6 months with a data or Python engineering background.",
+   "time_zh": "3-6个月(有数据/Python工程背景)"
+  },
+  {
+   "rank": 5,
+   "id": "L5-EMP-04",
+   "name_en": "Robotics DevOps/SRE and Functional Safety Engineer",
+   "name_zh": "机器人DevOps/SRE与功能安全工程师",
+   "layer": "L5",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "3-6 months with a DevOps or embedded background",
+   "time_zh": "3-6个月(有DevOps/嵌入式背景)"
+  },
+  {
+   "rank": 6,
+   "id": "L1-EMP-01",
+   "name_en": "Robotics AI Developer Relations / Evangelist (DevRel)",
+   "name_zh": "机器人AI开发者关系/布道师 (DevRel)",
+   "layer": "L1",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "3-6 months to build a public portfolio (tutorials/PRs) before hiring",
+   "time_zh": "3-6个月建立公开作品集(教程/PR)后可入职"
+  },
+  {
+   "rank": 7,
+   "id": "L5-EMP-01",
+   "name_en": "Forward-Deployed / Solutions Engineer (Robotics Middleware)",
+   "name_zh": "前置部署/解决方案工程师 (机器人中间件)",
+   "layer": "L5",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "0-3 months with a software or integration background",
+   "time_zh": "0-3个月(有软件/集成背景)"
+  },
+  {
+   "rank": 8,
+   "id": "L3-EMP-05",
+   "name_en": "Data Platform / Data Infrastructure Engineer",
+   "name_zh": "数据平台/数据基建工程师 (机器人)",
+   "layer": "L3",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "Three to six months (with a data engineering background)",
+   "time_zh": "3-6个月(有数据工程背景)"
+  },
+  {
+   "rank": 9,
+   "id": "L5-EMP-02",
+   "name_en": "Robotics Software Engineer (ROS2, Non-PhD Path)",
+   "name_zh": "机器人软件工程师 (ROS2, 非博士路径)",
+   "layer": "L5",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "3-9 months to self-learn ROS2 to a hireable level",
+   "time_zh": "3-9个月(自学ROS2到可雇佣)"
+  },
+  {
+   "rank": 10,
+   "id": "L6-EMP-03",
+   "name_en": "RaaS Customer Success / Deployment Manager",
+   "name_zh": "RaaS客户成功/部署经理",
+   "layer": "L6",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "0-3 months (with CSM or deployment experience)",
+   "time_zh": "0-3个月(有CSM/部署经验)"
+  },
+  {
+   "rank": 11,
+   "id": "L3-EMP-02",
+   "name_en": "Data Operations Manager / Human Data Strategist",
+   "name_zh": "数据运营经理/人类数据策略师",
+   "layer": "L3",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "Zero to three months (with operations or PM experience)",
+   "time_zh": "0-3个月(有运营/PM经验)"
+  },
+  {
+   "rank": 12,
+   "id": "L4-EMP-04",
+   "name_en": "Hardware Application / Integration Engineer (Dexterous Hands / Sensors)",
+   "name_zh": "硬件应用/集成工程师 (灵巧手/传感器)",
+   "layer": "L4",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "0-3 months with a portfolio",
+   "time_zh": "0-3个月(有作品集)"
+  },
+  {
+   "rank": 13,
+   "id": "L5-EMP-03",
+   "name_en": "Robotics Technical / Application Support Engineer (AMR Fleets)",
+   "name_zh": "机器人技术/应用支持工程师 (AMR车队)",
+   "layer": "L5",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "0-3 months",
+   "time_zh": "0-3个月"
+  },
+  {
+   "rank": 14,
+   "id": "L3-EMP-04",
+   "name_en": "Data Contributor Recruiting / Community Operations",
+   "name_zh": "数据贡献者招募/社区运营",
+   "layer": "L3",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "Zero to three months",
+   "time_zh": "0-3个月"
+  },
+  {
+   "rank": 15,
+   "id": "L4-EMP-03",
+   "name_en": "Robot Field Service Engineer",
+   "name_zh": "机器人现场服务工程师",
+   "layer": "L4",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "0-3 months with electrical or mechanical experience",
+   "time_zh": "0-3个月(有电气/机械经验)"
+  },
+  {
+   "rank": 16,
+   "id": "L6-EMP-02",
+   "name_en": "Vertical Robot Field Deployment / Service Technician",
+   "name_zh": "垂直机器人 现场部署/服务技术员",
+   "layer": "L6",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "0-3 months (with electromechanical experience)",
+   "time_zh": "0-3个月(有机电经验)"
+  },
+  {
+   "rank": 17,
+   "id": "L3-SOLO-07",
+   "name_en": "Freelance Data Annotation Contractor",
+   "name_zh": "自由数据标注/打标承包人",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "Several days to two weeks",
+   "time_zh": "数天-2周"
+  },
+  {
+   "rank": 18,
+   "id": "L6-EMP-01",
+   "name_en": "Remote Robot Operator / Takeover Intervention Specialist",
+   "name_zh": "远程机器人操作员/接管干预专员",
+   "layer": "L6",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "A few days (30 hours of paid training)",
+   "time_zh": "数天(30小时带薪培训)"
+  },
+  {
+   "rank": 19,
+   "id": "L4-EMP-01",
+   "name_en": "Humanoid Robot Operator / Teleoperation Data Pilot",
+   "name_zh": "人形机器人操作员/数据采集飞行员",
+   "layer": "L4",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "A few days to two weeks of training",
+   "time_zh": "数天-2周(培训)"
+  },
+  {
+   "rank": 20,
+   "id": "L3-EMP-03",
+   "name_en": "Robot Data Annotator / Video Reviewer",
+   "name_zh": "机器人数据标注员/视频审核员 (受雇)",
+   "layer": "L3",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "Several days (training)",
+   "time_zh": "数天(培训)"
+  },
+  {
+   "rank": 21,
+   "id": "L3-EMP-01",
+   "name_en": "Remote Teleoperation Operator",
+   "name_zh": "远程遥操作操作员 (受雇)",
+   "layer": "L3",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "Several days to two weeks (onboarding training)",
+   "time_zh": "数天-2周(入职培训)"
+  },
+  {
+   "rank": 22,
+   "id": "L4-EMP-02",
+   "name_en": "Robot Assembly and Test Technician",
+   "name_zh": "机器人装配与测试技术员",
+   "layer": "L4",
+   "mode": "Employee",
+   "min": "£0",
+   "time_en": "A few weeks of on-the-job training",
+   "time_zh": "数周(在职培训)"
+  },
+  {
+   "rank": 23,
+   "id": "L2-SOLO-03",
+   "name_en": "MuJoCo / Isaac Lab Plugin and Sim-to-Real Developer",
+   "name_zh": "MuJoCo/Isaac Lab 插件与sim-to-real开发者",
+   "layer": "L2",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "3-9 months to build project influence.",
+   "time_zh": "3-9个月建立项目影响力"
+  },
+  {
+   "rank": 24,
+   "id": "L5-SOLO-03",
+   "name_en": "Open-Source Robotics Middleware Maintainer (GitHub Sponsors)",
+   "name_zh": "开源机器人中间件维护者 (GitHub Sponsors)",
+   "layer": "L5",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "6-12 months to build project influence",
+   "time_zh": "6-12个月建立项目影响力"
+  },
+  {
+   "rank": 25,
+   "id": "L5-SOLO-02",
+   "name_en": "Robotics Platform Plugin / Module Developer (Viam/Foxglove)",
+   "name_zh": "机器人平台插件/模块开发者 (Viam/Foxglove)",
+   "layer": "L5",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "2-6 weeks for the first module",
+   "time_zh": "2-6周(首个模块)"
+  },
+  {
+   "rank": 26,
+   "id": "L3-SOLO-03",
+   "name_en": "Egocentric Demonstration Video Gig Collector",
+   "name_zh": "第一视角演示视频 零工采集员",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "Several days (sign-up plus gear)",
+   "time_zh": "数天(报名+设备)"
+  },
+  {
+   "rank": 27,
+   "id": "L3-SOLO-01-CN",
+   "name_en": "On-Site Teleoperation Data Collector (China)",
+   "name_zh": "现场遥操作数据采集员 (中国数据工厂)(中国)",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "Several days (onboarding training)",
+   "time_zh": "数天(入职培训)"
+  },
+  {
+   "rank": 28,
+   "id": "L3-SOLO-04",
+   "name_en": "Crypto Teleoperation / Drive-to-Earn Data Operator [crypto]",
+   "name_zh": "加密遥操作/Drive-to-Earn 数据操作员 [crypto]",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "Several days (sign-up plus gear or rental car)",
+   "time_zh": "数天(注册+设备/租车)"
+  },
+  {
+   "rank": 29,
+   "id": "L3-SOLO-05",
+   "name_en": "Crypto-Incentivized Data Annotator [crypto]",
+   "name_zh": "加密激励数据标注员 (Codatta) [crypto]",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£0",
+   "time_en": "A few hours (start right after sign-up)",
+   "time_zh": "数小时(注册即开始)"
+  },
+  {
+   "rank": 30,
+   "id": "L3-MICRO-04",
+   "name_en": "Crypto Teleoperation Guild Operator [crypto]",
+   "name_zh": "加密遥操作公会运营 (PrismaX) [crypto]",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "min": "£0",
+   "time_en": "Several weeks (build team plus staking)",
+   "time_zh": "数周(组队+质押)"
+  },
+  {
+   "rank": 31,
+   "id": "L6-EMP-04",
+   "name_en": "Commercial Drone Operator / Part 107 Pilot (Employed)",
+   "name_zh": "商用无人机操作员/Part 107飞手 (受雇)",
+   "layer": "L6",
+   "mode": "Employee",
+   "min": "£130",
+   "time_en": "1-2 months (pass Part 107 plus gain proficiency)",
+   "time_zh": "1-2个月(考Part 107+熟练)"
+  },
+  {
+   "rank": 32,
+   "id": "L5-SOLO-01",
+   "name_en": "Freelance ROS/ROS2 Software Developer",
+   "name_zh": "自由ROS/ROS2 软件开发者",
+   "layer": "L5",
+   "mode": "Solo operator",
+   "min": "£200",
+   "time_en": "1-3 months to build a profile and case studies",
+   "time_zh": "1-3个月(档案+案例)"
+  },
+  {
+   "rank": 33,
+   "id": "L4-SOLO-01",
+   "name_en": "Freelance Robot CAD / 3D Printing Designer",
+   "name_zh": "自由机器人CAD/3D打印设计师",
+   "layer": "L4",
+   "mode": "Solo operator",
+   "min": "£200",
+   "time_en": "1-3 months for a profile and case work",
+   "time_zh": "1-3个月(档案+案例)"
+  },
+  {
+   "rank": 34,
+   "id": "L2-SOLO-02",
+   "name_en": "SimReady / USD Digital Twin 3D Asset Seller",
+   "name_zh": "SimReady/USD 数字孪生3D资产卖家",
+   "layer": "L2",
+   "mode": "Solo operator",
+   "min": "£200",
+   "time_en": "1-3 months to ship a first batch of assets.",
+   "time_zh": "1-3个月(出第一批资产)"
+  },
+  {
+   "rank": 35,
+   "id": "L3-SOLO-02",
+   "name_en": "Robot Demonstration Dataset Creator and Seller",
+   "name_zh": "机器人演示数据集制作与销售",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£200",
+   "time_en": "Two to four weeks (assemble gear plus first dataset)",
+   "time_zh": "2-4周(组装设备+首个数据集)"
+  },
+  {
+   "rank": 36,
+   "id": "L2-SOLO-01",
+   "name_en": "Freelance Robot Simulation Engineer (Isaac/Gazebo/ROS2)",
+   "name_zh": "自由机器人仿真工程师 (Isaac/Gazebo/ROS2)",
+   "layer": "L2",
+   "mode": "Solo operator",
+   "min": "£300",
+   "time_en": "1-3 months to build a profile and case studies.",
+   "time_zh": "1-3个月(建档案+案例)"
+  },
+  {
+   "rank": 37,
+   "id": "L4-MICRO-02",
+   "name_en": "3D-Printed Robot Parts / STL Seller",
+   "name_zh": "3D打印机器人零件/STL 卖家",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "min": "£300",
+   "time_en": "A few weeks for a printer and first batch",
+   "time_zh": "数周(打印机+首批)"
+  },
+  {
+   "rank": 38,
+   "id": "L4-SOLO-02",
+   "name_en": "Open-Source Hardware Kit Community / Developer Relations (Contract)",
+   "name_zh": "开源硬件套件 社区/开发者关系 (合约)",
+   "layer": "L4",
+   "mode": "Solo operator",
+   "min": "£300",
+   "time_en": "3-6 months to build community influence",
+   "time_zh": "3-6个月(建立社区影响力)"
+  },
+  {
+   "rank": 39,
+   "id": "L1-SOLO-01",
+   "name_en": "Open-source VLA Fine-tuning Freelance Consultant",
+   "name_zh": "开源VLA微调自由顾问",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "min": "£400",
+   "time_en": "1-3 months (build an Upwork profile plus 1-2 public cases)",
+   "time_zh": "1-3个月(建Upwork档案+1-2个公开案例)"
+  },
+  {
+   "rank": 40,
+   "id": "L3-SOLO-01-WEST",
+   "name_en": "Home Remote Teleoperation Data Collector (West)",
+   "name_zh": "居家远程遥操作数据采集员 (西方)(西方)",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£400",
+   "time_en": "Several days to two weeks (gear setup plus training)",
+   "time_zh": "数天-2周(设备到位+培训)"
+  },
+  {
+   "rank": 41,
+   "id": "L5-MICRO-02",
+   "name_en": "Vertical SaaS Micro-App on Viam/Formant",
+   "name_zh": "基于Viam/Formant的垂直SaaS微应用",
+   "layer": "L5",
+   "mode": "Micro-startup",
+   "min": "£500",
+   "time_en": "3-6 months to an MVP and first customers",
+   "time_zh": "3-6个月(MVP+首批客户)"
+  },
+  {
+   "rank": 42,
+   "id": "L1-SOLO-04",
+   "name_en": "Embodied Red Team / VLA Evaluation Benchmark Builder",
+   "name_zh": "具身红队 / VLA评测基准搭建者",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "min": "£500",
+   "time_en": "3-6 months (need public evaluation work first)",
+   "time_zh": "3-6个月(需先有公开评测作品)"
+  },
+  {
+   "rank": 43,
+   "id": "L6-MICRO-02",
+   "name_en": "Vertical Robot Adoption Consultant for SMBs",
+   "name_zh": "面向中小企业的垂直机器人采用顾问",
+   "layer": "L6",
+   "mode": "Micro-startup",
+   "min": "£500",
+   "time_en": "1-2 months (first client)",
+   "time_zh": "1-2个月(首个客户)"
+  },
+  {
+   "rank": 44,
+   "id": "L4-MICRO-03",
+   "name_en": "Robot Accessory / Mounting Kit Maker",
+   "name_zh": "机器人配件/挂载套件制造商",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "min": "£500",
+   "time_en": "1-2 months for design and first batch",
+   "time_zh": "1-2个月(设计+首批)"
+  },
+  {
+   "rank": 45,
+   "id": "L1-SOLO-02",
+   "name_en": "Independent Embodied AI Researcher / LeRobot Contributor",
+   "name_zh": "独立具身AI研究者 / LeRobot贡献者",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "min": "£500",
+   "time_en": "3-9 months to build visible output",
+   "time_zh": "3-9个月建立可见产出"
+  },
+  {
+   "rank": 46,
+   "id": "L1-SOLO-03",
+   "name_en": "Robotics / Embodied AI Educator and Content Creator",
+   "name_zh": "机器人/具身AI 教育者与内容创作者",
+   "layer": "L1",
+   "mode": "Solo operator",
+   "min": "£800",
+   "time_en": "6-12 months to grow an audience large enough to monetize",
+   "time_zh": "6-12个月攒受众到可变现"
+  },
+  {
+   "rank": 47,
+   "id": "L5-MICRO-01",
+   "name_en": "Robotics Fleet Integration Consulting (1-5 People)",
+   "name_zh": "机器人车队集成咨询 (1-5人)",
+   "layer": "L5",
+   "mode": "Micro-startup",
+   "min": "£1,000",
+   "time_en": "1-3 months to the first deal",
+   "time_zh": "1-3个月(首单)"
+  },
+  {
+   "rank": 48,
+   "id": "L3-MICRO-05",
+   "name_en": "Annotation / Quality-Check Micro Vendor",
+   "name_zh": "标注/质检 微型供应商",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "min": "£1,000",
+   "time_en": "One to two months (build team plus first deal)",
+   "time_zh": "1-2个月(组队+首单)"
+  },
+  {
+   "rank": 49,
+   "id": "L6-SOLO-01",
+   "name_en": "Part 107 Drone Inspection / Mapping Solo Operator",
+   "name_zh": "Part 107无人机巡检/测绘服务个体",
+   "layer": "L6",
+   "mode": "Solo operator",
+   "min": "£1,500",
+   "time_en": "1-3 months (certificate, equipment, and first order)",
+   "time_zh": "1-3个月(证+设备+首单)"
+  },
+  {
+   "rank": 50,
+   "id": "L3-MICRO-03",
+   "name_en": "Egocentric Collection Team Operations / Field Supervisor",
+   "name_zh": "第一视角采集 班组运营/外勤主管",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "min": "£2,000",
+   "time_en": "One to three months (build team plus first contracts)",
+   "time_zh": "1-3个月(组队+首批合同)"
+  },
+  {
+   "rank": 51,
+   "id": "L1-MICRO-01",
+   "name_en": "VLA Fine-tuning / Teleop-to-Policy Tooling Micro-startup",
+   "name_zh": "VLA微调/遥操作转策略 工具平台微创业",
+   "layer": "L1",
+   "mode": "Micro-startup",
+   "min": "£2,000",
+   "time_en": "3-6 months to build a usable MVP",
+   "time_zh": "3-6个月做出可用MVP"
+  },
+  {
+   "rank": 52,
+   "id": "L2-MICRO-02",
+   "name_en": "Manufacturing Synthetic Data + Simulation CV Micro-Startup",
+   "name_zh": "制造业合成数据+仿真CV产品微创业",
+   "layer": "L2",
+   "mode": "Micro-startup",
+   "min": "£2,000",
+   "time_en": "6-12 months.",
+   "time_zh": "6-12个月"
+  },
+  {
+   "rank": 53,
+   "id": "L2-MICRO-01",
+   "name_en": "World Model / Simulation Environment Micro-Startup (Policy Evaluation)",
+   "name_zh": "世界模型/仿真环境微创业 (策略评测)",
+   "layer": "L2",
+   "mode": "Micro-startup",
+   "min": "£2,000",
+   "time_en": "6-12 months to a demonstrable product.",
+   "time_zh": "6-12个月做出可演示产品"
+  },
+  {
+   "rank": 54,
+   "id": "L4-MICRO-01-WEST",
+   "name_en": "SO-ARM/LeRobot Kit Assembly, Resale, and Bundling (West)",
+   "name_zh": "SO-ARM/LeRobot 套件组装转售与打包 (西方)(西方)",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "min": "£2,000",
+   "time_en": "1-3 months for supply, prototype, and store",
+   "time_zh": "1-3个月(供应+样机+店铺)"
+  },
+  {
+   "rank": 55,
+   "id": "L3-SOLO-06",
+   "name_en": "Freelance Motion Capture Collector",
+   "name_zh": "自由动作捕捉采集师 (Rokoko/Xsens)",
+   "layer": "L3",
+   "mode": "Solo operator",
+   "min": "£2,400",
+   "time_en": "Two to four weeks (gear setup plus sample reel)",
+   "time_zh": "2-4周(设备到位+样片)"
+  },
+  {
+   "rank": 56,
+   "id": "L4-MICRO-01-CN",
+   "name_en": "SO-ARM/LeRobot Kit and Parts Manufacturing and Resale (Shenzhen Supply Chain) (China)",
+   "name_zh": "SO-ARM/LeRobot 套件与零件制造转售 (深圳供应链)(中国)",
+   "layer": "L4",
+   "mode": "Micro-startup",
+   "min": "£3,000",
+   "time_en": "1-3 months to set up the supply chain",
+   "time_zh": "1-3个月(打通供应链)"
+  },
+  {
+   "rank": 57,
+   "id": "L1-MICRO-02",
+   "name_en": "VLA Fine-tuning-as-a-Service Studio",
+   "name_zh": "VLA微调即服务工作室",
+   "layer": "L1",
+   "mode": "Micro-startup",
+   "min": "£3,000",
+   "time_en": "2-4 months (assemble collection gear plus training process)",
+   "time_zh": "2-4个月(攒齐采集设备+训练流程)"
+  },
+  {
+   "rank": 58,
+   "id": "L3-MICRO-01-WEST",
+   "name_en": "Micro Teleoperation Data Studio (West)",
+   "name_zh": "微型遥操作数据工作室 (西方)(西方)",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "min": "£3,000",
+   "time_en": "One to three months (gear, process, plus first deal)",
+   "time_zh": "1-3个月(设备+流程+首单)"
+  },
+  {
+   "rank": 59,
+   "id": "L3-MICRO-02",
+   "name_en": "Motion-Capture-as-a-Service Boutique Studio",
+   "name_zh": "动作捕捉即服务 精品工作室",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "min": "£3,200",
+   "time_en": "One to three months (stage, sample reel, plus clients)",
+   "time_zh": "1-3个月(棚+样片+客户)"
+  },
+  {
+   "rank": 60,
+   "id": "L6-MICRO-01",
+   "name_en": "Regional RaaS Reseller / Deployment Integrator",
+   "name_zh": "区域RaaS转售/部署集成商",
+   "layer": "L6",
+   "mode": "Micro-startup",
+   "min": "£5,000",
+   "time_en": "1-3 months (channel plus first deployments)",
+   "time_zh": "1-3个月(渠道+首批部署)"
+  },
+  {
+   "rank": 61,
+   "id": "L6-MICRO-03",
+   "name_en": "Construction / Infrastructure Drone Service Company (1-5 people)",
+   "name_zh": "建筑/基础设施无人机服务公司 (1-5人)",
+   "layer": "L6",
+   "mode": "Micro-startup",
+   "min": "£5,000",
+   "time_en": "1-3 months (build team, equipment, and first retainers)",
+   "time_zh": "1-3个月(组队+设备+首批retainer)"
+  },
+  {
+   "rank": 62,
+   "id": "L6-SOLO-03",
+   "name_en": "Autonomous Floor Scrubber Owner-Operator (Cleaning Service)",
+   "name_zh": "自主洗地机 业主-操作员 (清洁服务)",
+   "layer": "L6",
+   "mode": "Solo operator",
+   "min": "£12,000",
+   "time_en": "1-3 months (buy machine plus first contract)",
+   "time_zh": "1-3个月(购机+首个合同)"
+  },
+  {
+   "rank": 63,
+   "id": "L6-SOLO-02",
+   "name_en": "Agricultural Robot Weeding Contractor (Weeding-as-a-Service)",
+   "name_zh": "农业机器人除草承包人 (除草即服务)",
+   "layer": "L6",
+   "mode": "Solo operator",
+   "min": "£20,000",
+   "time_en": "3-6 months (buy or rent equipment plus first farms)",
+   "time_zh": "3-6个月(购/租设备+首批农场)"
+  },
+  {
+   "rank": 64,
+   "id": "L3-MICRO-01-CN",
+   "name_en": "Robot Data Collection Factory Operator (China)",
+   "name_zh": "机器人数据采集工厂运营 (中国)(中国)",
+   "layer": "L3",
+   "mode": "Micro-startup",
+   "min": "£40,000",
+   "time_en": "Three to nine months (site, gear, plus staffing)",
+   "time_zh": "3-9个月(场地+设备+用工)"
+  }
+ ],
+ "mode_cmp": [
+  {
+   "mode": "Solo operator",
+   "count": 23,
+   "med_entry": "£200",
+   "med_floor": "£7,900",
+   "med_ceil": "£78,700",
+   "top_layer": "L3"
+  },
+  {
+   "mode": "Micro-startup",
+   "count": 19,
+   "med_entry": "£2,000",
+   "med_floor": "£18,900",
+   "med_ceil": "£157,500",
+   "top_layer": "L3"
+  },
+  {
+   "mode": "Employee",
+   "count": 22,
+   "med_entry": "£0",
+   "med_floor": "£80,600",
+   "med_ceil": "£129,500",
+   "top_layer": "L3"
+  }
+ ],
+ "time_window": {
+  "now": [
+   {
+    "layer": "L1",
+    "name_en": "Robotics AI Developer Relations / Evangelist (DevRel)",
+    "name_zh": "机器人AI开发者关系/布道师 (DevRel)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L1",
+    "name_en": "Field Deployment / Solutions Engineer (foundation-model robotics)",
+    "name_zh": "前置部署/解决方案工程师 (基础模型机器人公司)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L1",
+    "name_en": "VLA Fine-tuning / Teleop-to-Policy Tooling Micro-startup",
+    "name_zh": "VLA微调/遥操作转策略 工具平台微创业",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L1",
+    "name_en": "VLA Fine-tuning-as-a-Service Studio",
+    "name_zh": "VLA微调即服务工作室",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L1",
+    "name_en": "Open-source VLA Fine-tuning Freelance Consultant",
+    "name_zh": "开源VLA微调自由顾问",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L1",
+    "name_en": "Independent Embodied AI Researcher / LeRobot Contributor",
+    "name_zh": "独立具身AI研究者 / LeRobot贡献者",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L1",
+    "name_en": "Robotics / Embodied AI Educator and Content Creator",
+    "name_zh": "机器人/具身AI 教育者与内容创作者",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L2",
+    "name_en": "Synthetic Data / Simulation Pipeline Engineer",
+    "name_zh": "合成数据/仿真数据流水线工程师",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L2",
+    "name_en": "Simulation Software Engineer (Game Engines)",
+    "name_zh": "仿真软件工程师 (游戏引擎)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L2",
+    "name_en": "Simulation Solutions Architect (Omniverse/Isaac/Digital Twin)",
+    "name_zh": "仿真解决方案架构师 (Omniverse/Isaac/数字孪生)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L2",
+    "name_en": "Manufacturing Synthetic Data + Simulation CV Micro-Startup",
+    "name_zh": "制造业合成数据+仿真CV产品微创业",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L2",
+    "name_en": "Freelance Robot Simulation Engineer (Isaac/Gazebo/ROS2)",
+    "name_zh": "自由机器人仿真工程师 (Isaac/Gazebo/ROS2)",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L2",
+    "name_en": "SimReady / USD Digital Twin 3D Asset Seller",
+    "name_zh": "SimReady/USD 数字孪生3D资产卖家",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L2",
+    "name_en": "MuJoCo / Isaac Lab Plugin and Sim-to-Real Developer",
+    "name_zh": "MuJoCo/Isaac Lab 插件与sim-to-real开发者",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Remote Teleoperation Operator",
+    "name_zh": "远程遥操作操作员 (受雇)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Data Operations Manager / Human Data Strategist",
+    "name_zh": "数据运营经理/人类数据策略师",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Robot Data Annotator / Video Reviewer",
+    "name_zh": "机器人数据标注员/视频审核员 (受雇)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Data Contributor Recruiting / Community Operations",
+    "name_zh": "数据贡献者招募/社区运营",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Data Platform / Data Infrastructure Engineer",
+    "name_zh": "数据平台/数据基建工程师 (机器人)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Robot Data Collection Factory Operator (China)",
+    "name_zh": "机器人数据采集工厂运营 (中国)(中国)",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Micro Teleoperation Data Studio (West)",
+    "name_zh": "微型遥操作数据工作室 (西方)(西方)",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Motion-Capture-as-a-Service Boutique Studio",
+    "name_zh": "动作捕捉即服务 精品工作室",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Egocentric Collection Team Operations / Field Supervisor",
+    "name_zh": "第一视角采集 班组运营/外勤主管",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Annotation / Quality-Check Micro Vendor",
+    "name_zh": "标注/质检 微型供应商",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L3",
+    "name_en": "On-Site Teleoperation Data Collector (China)",
+    "name_zh": "现场遥操作数据采集员 (中国数据工厂)(中国)",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Home Remote Teleoperation Data Collector (West)",
+    "name_zh": "居家远程遥操作数据采集员 (西方)(西方)",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Robot Demonstration Dataset Creator and Seller",
+    "name_zh": "机器人演示数据集制作与销售",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Egocentric Demonstration Video Gig Collector",
+    "name_zh": "第一视角演示视频 零工采集员",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Freelance Motion Capture Collector",
+    "name_zh": "自由动作捕捉采集师 (Rokoko/Xsens)",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Freelance Data Annotation Contractor",
+    "name_zh": "自由数据标注/打标承包人",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L4",
+    "name_en": "Humanoid Robot Operator / Teleoperation Data Pilot",
+    "name_zh": "人形机器人操作员/数据采集飞行员",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L4",
+    "name_en": "Robot Assembly and Test Technician",
+    "name_zh": "机器人装配与测试技术员",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L4",
+    "name_en": "Robot Field Service Engineer",
+    "name_zh": "机器人现场服务工程师",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L4",
+    "name_en": "Hardware Application / Integration Engineer (Dexterous Hands / Sensors)",
+    "name_zh": "硬件应用/集成工程师 (灵巧手/传感器)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L4",
+    "name_en": "SO-ARM/LeRobot Kit and Parts Manufacturing and Resale (Shenzhen Supply Chain) (China)",
+    "name_zh": "SO-ARM/LeRobot 套件与零件制造转售 (深圳供应链)(中国)",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L4",
+    "name_en": "SO-ARM/LeRobot Kit Assembly, Resale, and Bundling (West)",
+    "name_zh": "SO-ARM/LeRobot 套件组装转售与打包 (西方)(西方)",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L4",
+    "name_en": "3D-Printed Robot Parts / STL Seller",
+    "name_zh": "3D打印机器人零件/STL 卖家",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L4",
+    "name_en": "Robot Accessory / Mounting Kit Maker",
+    "name_zh": "机器人配件/挂载套件制造商",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L4",
+    "name_en": "Freelance Robot CAD / 3D Printing Designer",
+    "name_zh": "自由机器人CAD/3D打印设计师",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L4",
+    "name_en": "Open-Source Hardware Kit Community / Developer Relations (Contract)",
+    "name_zh": "开源硬件套件 社区/开发者关系 (合约)",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Forward-Deployed / Solutions Engineer (Robotics Middleware)",
+    "name_zh": "前置部署/解决方案工程师 (机器人中间件)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Robotics Software Engineer (ROS2, Non-PhD Path)",
+    "name_zh": "机器人软件工程师 (ROS2, 非博士路径)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Robotics Technical / Application Support Engineer (AMR Fleets)",
+    "name_zh": "机器人技术/应用支持工程师 (AMR车队)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Robotics DevOps/SRE and Functional Safety Engineer",
+    "name_zh": "机器人DevOps/SRE与功能安全工程师",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Robotics Fleet Integration Consulting (1-5 People)",
+    "name_zh": "机器人车队集成咨询 (1-5人)",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Vertical SaaS Micro-App on Viam/Formant",
+    "name_zh": "基于Viam/Formant的垂直SaaS微应用",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Freelance ROS/ROS2 Software Developer",
+    "name_zh": "自由ROS/ROS2 软件开发者",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Open-Source Robotics Middleware Maintainer (GitHub Sponsors)",
+    "name_zh": "开源机器人中间件维护者 (GitHub Sponsors)",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Remote Robot Operator / Takeover Intervention Specialist",
+    "name_zh": "远程机器人操作员/接管干预专员",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Vertical Robot Field Deployment / Service Technician",
+    "name_zh": "垂直机器人 现场部署/服务技术员",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L6",
+    "name_en": "RaaS Customer Success / Deployment Manager",
+    "name_zh": "RaaS客户成功/部署经理",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Commercial Drone Operator / Part 107 Pilot (Employed)",
+    "name_zh": "商用无人机操作员/Part 107飞手 (受雇)",
+    "mode": "Employee"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Regional RaaS Reseller / Deployment Integrator",
+    "name_zh": "区域RaaS转售/部署集成商",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Vertical Robot Adoption Consultant for SMBs",
+    "name_zh": "面向中小企业的垂直机器人采用顾问",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Construction / Infrastructure Drone Service Company (1-5 people)",
+    "name_zh": "建筑/基础设施无人机服务公司 (1-5人)",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Part 107 Drone Inspection / Mapping Solo Operator",
+    "name_zh": "Part 107无人机巡检/测绘服务个体",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Autonomous Floor Scrubber Owner-Operator (Cleaning Service)",
+    "name_zh": "自主洗地机 业主-操作员 (清洁服务)",
+    "mode": "Solo operator"
+   }
+  ],
+  "6-12mo": [
+   {
+    "layer": "L1",
+    "name_en": "Embodied Red Team / VLA Evaluation Benchmark Builder",
+    "name_zh": "具身红队 / VLA评测基准搭建者",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L2",
+    "name_en": "World Model / Simulation Environment Micro-Startup (Policy Evaluation)",
+    "name_zh": "世界模型/仿真环境微创业 (策略评测)",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Crypto Teleoperation Guild Operator [crypto]",
+    "name_zh": "加密遥操作公会运营 (PrismaX) [crypto]",
+    "mode": "Micro-startup"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Crypto Teleoperation / Drive-to-Earn Data Operator [crypto]",
+    "name_zh": "加密遥操作/Drive-to-Earn 数据操作员 [crypto]",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L3",
+    "name_en": "Crypto-Incentivized Data Annotator [crypto]",
+    "name_zh": "加密激励数据标注员 (Codatta) [crypto]",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L5",
+    "name_en": "Robotics Platform Plugin / Module Developer (Viam/Foxglove)",
+    "name_zh": "机器人平台插件/模块开发者 (Viam/Foxglove)",
+    "mode": "Solo operator"
+   },
+   {
+    "layer": "L6",
+    "name_en": "Agricultural Robot Weeding Contractor (Weeding-as-a-Service)",
+    "name_zh": "农业机器人除草承包人 (除草即服务)",
+    "mode": "Solo operator"
+   }
+  ]
+ }
+}

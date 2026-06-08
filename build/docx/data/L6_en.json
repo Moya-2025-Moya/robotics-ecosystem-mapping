@@ -1,0 +1,122 @@
+{
+  "L6-EMP-01": {
+    "name_en": "Remote Robot Operator / Takeover Intervention Specialist",
+    "do_en": "Work as a remote operator. Monitor video from warehouse picking and sidewalk delivery robots. Take control when something goes wrong. Low entry bar, with paid training included.",
+    "skills_must_en": ["Fast reaction time", "Exception takeover", "Teleoperation dashboards", "Stable internet"],
+    "skills_nice_en": ["Navigation judgment", "Multiple robot models"],
+    "week_en": "Each shift, monitor video feeds from several robots. Take remote control when faults appear. Log each intervention and hand off to the next shift.",
+    "entry_time_en": "A few days (30 hours of paid training)",
+    "barrier_en": "Needs stable internet. Shift work. Some roles are on-site.",
+    "revenue_src_en": "Hourly wage",
+    "risk_en": "Higher autonomy lets one person manage more robots. This compresses the number of positions.",
+    "next_en": "12-24 months to fleet supervisor or deployment manager (L6-EMP-03)."
+  },
+  "L6-EMP-02": {
+    "name_en": "Vertical Robot Field Deployment / Service Technician",
+    "do_en": "Visit customer sites to install, configure, and repair vertical-industry robots in warehousing, agriculture, and food. Run control and safety tests. Train customers. Roles often span several verticals.",
+    "skills_must_en": ["On-site install and setup", "Electromechanical troubleshooting", "Control and safety testing", "On-site customer support"],
+    "skills_nice_en": ["Data collection and labeling help", "Industry knowledge"],
+    "week_en": "Take dispatch tickets and go on-site to install and configure robots. Run safety tests and training. Fix faults and report issues back.",
+    "entry_time_en": "0-3 months (with electromechanical experience)",
+    "barrier_en": "Needs electromechanical basics. Involves travel and on-site work.",
+    "revenue_src_en": "Wage plus equity",
+    "risk_en": "Remote diagnostics and more reliable hardware reduce the need for on-site visits.",
+    "next_en": "12-24 months to deployment manager, regional service lead, or own integration shop (L6-MICRO-01)."
+  },
+  "L6-EMP-03": {
+    "name_en": "RaaS Customer Success / Deployment Manager",
+    "do_en": "Own RaaS customer accounts. Manage deployments and analyze results. Drive expansion and repeat purchases. Coordinate across departments.",
+    "skills_must_en": ["Customer relationship management", "Deployment data analysis", "Expansion and repeat sales", "Cross-functional coordination"],
+    "skills_nice_en": ["Industry knowledge", "Project management"],
+    "week_en": "Monday, set customer success plans. Tuesday to Thursday, track deployment results, align with customers, and push expansion. Friday, review metrics and coordinate internally.",
+    "entry_time_en": "0-3 months (with CSM or deployment experience)",
+    "barrier_en": "Needs customer success or deployment experience.",
+    "revenue_src_en": "Wage plus equity",
+    "risk_en": "RaaS demand swings with customer budgets.",
+    "next_en": "12-24 months to customer success director or regional lead."
+  },
+  "L6-EMP-04": {
+    "name_en": "Commercial Drone Operator / Part 107 Pilot (Employed)",
+    "do_en": "Work as an employee doing drone mapping and data capture on construction and infrastructure sites. Flights are autonomous. Holds an FAA Part 107 certificate.",
+    "skills_must_en": ["FAA Part 107", "Site mapping (DroneDeploy)", "Data collection", "Autonomous flight operation"],
+    "skills_nice_en": ["Photogrammetry", "GIS"],
+    "week_en": "For each project, go on-site and plan flight routes. Fly to capture data. Process the data and deliver the results.",
+    "entry_time_en": "1-2 months (pass Part 107 plus gain proficiency)",
+    "barrier_en": "Needs a Part 107 certificate. Involves on-site work and travel.",
+    "revenue_src_en": "Hourly wage",
+    "risk_en": "Fully autonomous drones reduce demand for human pilots.",
+    "next_en": "12-24 months to own drone service (L6-SOLO-01) or a service company (L6-MICRO-03)."
+  },
+  "L6-SOLO-01": {
+    "name_en": "Part 107 Drone Inspection / Mapping Solo Operator",
+    "do_en": "Hold a Part 107 certificate and fly Skydio or DJI drones. Provide inspection and mapping for construction, infrastructure, and agriculture. Bill by hour, project, or acre.",
+    "skills_must_en": ["FAA Part 107", "Photogrammetry and thermal inspection", "Flight route planning", "Data deliverable handoff"],
+    "skills_nice_en": ["GIS", "NDVI multispectral", "Sales"],
+    "week_en": "Monday, take orders and plan. Tuesday to Thursday, fly on-site and capture data. Friday, process data, deliver reports, and find clients.",
+    "entry_time_en": "1-3 months (certificate, equipment, and first order)",
+    "barrier_en": "Needs Part 107 plus drone equipment.",
+    "revenue_src_en": "Per-hour, per-project, or per-acre fees",
+    "risk_en": "Fully autonomous inspection platforms emerge. A saturated market pushes prices down.",
+    "next_en": "12-24 months to a drone service company (L6-MICRO-03)."
+  },
+  "L6-SOLO-02": {
+    "name_en": "Agricultural Robot Weeding Contractor (Weeding-as-a-Service)",
+    "do_en": "Own or rent laser or mechanical weeding robots. Offer weeding-as-a-service to farms. Bill by the acre.",
+    "skills_must_en": ["Field machine operation", "Per-acre service operations", "Crop-weed calibration", "Seasonal scheduling"],
+    "skills_nice_en": ["Agronomy knowledge", "Equipment maintenance"],
+    "week_en": "Run weeding robots in fields on each farm's schedule. Bill by the acre. Maintain equipment and add clients by season.",
+    "entry_time_en": "3-6 months (buy or rent equipment plus first farms)",
+    "barrier_en": "High equipment capital to buy, or rental needed. Strongly seasonal.",
+    "revenue_src_en": "Per-acre service fees",
+    "risk_en": "Farms buy their own equipment. Vendor direct RaaS squeezes out middleman contractors.",
+    "next_en": "12-24 months to a regional agricultural robot service company."
+  },
+  "L6-SOLO-03": {
+    "name_en": "Autonomous Floor Scrubber Owner-Operator (Cleaning Service)",
+    "do_en": "Buy autonomous floor scrubbing robots. Take on commercial cleaning contracts. The robots replace large amounts of manual floor work.",
+    "skills_must_en": ["Scrubber operation and charging", "Route setup", "Cleaning contract sales", "Basic maintenance"],
+    "skills_nice_en": ["Multi-site operations", "B2B sales"],
+    "week_en": "Deploy robots to contract sites for night cleaning. By day, inspect, maintain, and find new contracts. Bill by area or contract.",
+    "entry_time_en": "1-3 months (buy machine plus first contract)",
+    "barrier_en": "Machine capital required, or RaaS rental.",
+    "revenue_src_en": "Cleaning contracts (by area)",
+    "risk_en": "Vendor direct RaaS bypasses solo operators. Cleaning prices fall in a price war.",
+    "next_en": "12-24 months to a regional cleaning robot RaaS (L6-MICRO-01)."
+  },
+  "L6-MICRO-01": {
+    "name_en": "Regional RaaS Reseller / Deployment Integrator",
+    "do_en": "A team of 1-5 resells and integrates regional robot-as-a-service for cleaning, security, and service robots. Work covers on-site deployment, training, account management, and preventive maintenance.",
+    "skills_must_en": ["On-site deployment and training", "Account management", "Preventive maintenance", "Channel sales"],
+    "skills_nice_en": ["Financing and subscription setup", "Multi-brand integration"],
+    "week_en": "Monday to Tuesday, channel sales and financing plans. Wednesday to Thursday, deploy, train, and maintain. Friday, manage accounts, hold SLAs, and grow the team.",
+    "entry_time_en": "1-3 months (channel plus first deployments)",
+    "barrier_en": "Needs channel relationships, service capability, and working capital.",
+    "revenue_src_en": "RaaS subscription revenue share",
+    "risk_en": "Vendors selling direct bypass resellers. RaaS prices compress.",
+    "next_en": "12-24 months to a regional robot deployment service company."
+  },
+  "L6-MICRO-02": {
+    "name_en": "Vertical Robot Adoption Consultant for SMBs",
+    "do_en": "A team of 1-5 helps small businesses in food, warehousing, and cleaning adopt robots. Services cover needs assessment, ROI modeling, vendor selection, deployment PM, and change management.",
+    "skills_must_en": ["Needs assessment and ROI modeling", "Vendor selection", "Deployment project management", "Change management"],
+    "skills_nice_en": ["Industry contacts", "Data analysis"],
+    "week_en": "Monday to Tuesday, client diagnosis and ROI modeling. Wednesday to Thursday, vendor selection and deployment PM. Friday, track results and manage staff change.",
+    "entry_time_en": "1-2 months (first client)",
+    "barrier_en": "Needs industry contacts and consulting credibility.",
+    "revenue_src_en": "Consulting fees or retainer",
+    "risk_en": "Vendors offer free deployment consulting. RaaS lowers decision complexity.",
+    "next_en": "12-24 months to a vertical robot integration or consulting firm."
+  },
+  "L6-MICRO-03": {
+    "name_en": "Construction / Infrastructure Drone Service Company (1-5 people)",
+    "do_en": "A drone service company of 1-5 people. Serves construction and infrastructure clients on a retainer model. Delivers recurring mapping, inspection, and data reports.",
+    "skills_must_en": ["Part 107 team operations", "Recurring mapping cadence", "Data processing and reporting", "Retainer client management"],
+    "skills_nice_en": ["Multiple drone models", "GIS", "Business development"],
+    "week_en": "Monday, schedule multi-site flights. Tuesday to Thursday, the team flies and captures data. Friday, process data, report, manage retainers, and find clients.",
+    "entry_time_en": "1-3 months (build team, equipment, and first retainers)",
+    "barrier_en": "Needs several certified pilots, equipment, and client contracts.",
+    "revenue_src_en": "Monthly retainer plus projects",
+    "risk_en": "Fully autonomous docked drones, such as Skydio Dock, replace manual service.",
+    "next_en": "12-24 months to a regional drone or geospatial data company."
+  }
+}

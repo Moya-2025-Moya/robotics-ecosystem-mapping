@@ -1,0 +1,98 @@
+{
+  "L1-EMP-01": {
+    "name_en": "Robotics AI Developer Relations / Evangelist (DevRel)",
+    "do_en": "As a DevRel engineer at a foundation-model company, you explain the open-source robot learning stack. You write tutorials, run demos, and run the community for LeRobot, GR00T, and Isaac. You collect developer feedback and pass it to product teams.",
+    "skills_must_en": ["Open-source community management", "Robot learning basics (VLA/policy)", "Python", "Technical writing and speaking", "GitHub/Hub workflows"],
+    "skills_nice_en": ["Short video and livestream", "Conference talks", "Multilingual"],
+    "week_en": "Mon: clear community issues and answer Discord questions. Tue/Wed: write tutorials or record and publish demos. Thu: livestream and answer questions online. Fri: collect developer feedback for product and model teams, update docs.",
+    "entry_time_en": "3-6 months to build a public portfolio (tutorials/PRs) before hiring",
+    "barrier_en": "Needs a public portfolio of content and contributions. Needs English communication. Usually requires prior open-source contributions.",
+    "revenue_src_en": "Salary + equity",
+    "risk_en": "LLMs auto-generate docs and tutorials, cutting demand. The robot developer market is still small.",
+    "next_en": "12-24 months to DevRel lead, product marketing manager, or independent technical content business (see L1-SOLO-03)."
+  },
+  "L1-EMP-02": {
+    "name_en": "Field Deployment / Solutions Engineer (foundation-model robotics)",
+    "do_en": "At customer sites, you install, tune, and run foundation-model robot systems. You integrate hardware, network, and software, write custom code for client needs, and debug. The role accepts relevant technical experience, not a required PhD.",
+    "skills_must_en": ["On-site deployment and debugging", "Python", "Policy rollout and data operations", "Customer integration communication"],
+    "skills_nice_en": ["ROS2", "Network/Linux operations", "Industry domain knowledge"],
+    "week_en": "Mon: align with customer schedules. Tue-Thu: install, calibrate, collect data, and tune policies on site. Fri: send back failure cases and data, submit adaptation PRs, write deployment reports.",
+    "entry_time_en": "0-3 months (software/integration experience allows direct hiring)",
+    "barrier_en": "Needs provable engineering project experience. Often requires travel. Needs geographic closeness to customers.",
+    "revenue_src_en": "Salary + equity",
+    "risk_en": "If foundation models become truly plug-and-play, demand for deployment labor drops.",
+    "next_en": "12-24 months to deployment lead, solutions architect, or micro-startup offering deployment services (L5-MICRO-01)."
+  },
+  "L1-MICRO-01": {
+    "name_en": "VLA Fine-tuning / Teleop-to-Policy Tooling Micro-startup",
+    "do_en": "A team of 1-5 builds tools or SaaS on top of open-source VLA (LeRobot/OpenPI/GR00T). It offers one-click fine-tuning and teleop-to-policy conversion. It sells to small and mid teams who want to train their own robots.",
+    "skills_must_en": ["VLA training pipelines", "Middleware/Docker packaging", "VR teleop integration", "Product/UX"],
+    "skills_nice_en": ["Hardware supply", "Growth marketing", "Cloud GPU cost optimization"],
+    "week_en": "Mon: review user feedback and set priorities. Tue-Thu: build training and teleop features, fix pipelines. Fri: ship releases, write changelogs, run user demos and onboarding.",
+    "entry_time_en": "3-6 months to build a usable MVP",
+    "barrier_en": "Needs VLA training engineering skill plus seed users. Cloud GPU cost.",
+    "revenue_src_en": "SaaS subscription / service fees",
+    "risk_en": "If Hugging Face or NVIDIA official tools build in the same features, you are crushed.",
+    "next_en": "12-24 months to a YC/seed-funded data and training platform company."
+  },
+  "L1-MICRO-02": {
+    "name_en": "VLA Fine-tuning-as-a-Service Studio",
+    "do_en": "A team of 1-5 collects teleop data and fine-tunes usable VLA policies (OpenVLA/pi0/SmolVLA) per contract. It delivers evaluation reports. This is a service, not a product.",
+    "skills_must_en": ["Teleop data collection (50Hz RLDS/LeRobot)", "On-budget VLA training", "Evaluation design"],
+    "skills_nice_en": ["Multi-camera calibration", "Customer domain knowledge"],
+    "week_en": "Mon: take requirements and define tasks. Tue-Wed: collect data. Thu: train and evaluate. Fri: deliver reports and weights, take in the next batch of tasks.",
+    "entry_time_en": "2-4 months (assemble collection gear plus training process)",
+    "barrier_en": "Needs collection hardware, GPUs, and evaluation methodology.",
+    "revenue_src_en": "Project contract fees",
+    "risk_en": "Falling data collection costs plus rising customer in-house ability squeeze margins.",
+    "next_en": "12-24 months to a data and policy company focused on one vertical, such as logistics."
+  },
+  "L1-SOLO-01": {
+    "name_en": "Open-source VLA Fine-tuning Freelance Consultant",
+    "do_en": "You take jobs on Upwork or Toptal. You fine-tune open-source VLA (OpenVLA/pi0) with LoRA/PEFT for clients. You clean LeRobot datasets, train on a single card, and evaluate.",
+    "skills_must_en": ["PEFT/LoRA fine-tuning", "LeRobot data format", "Single-GPU (A100/H100) training", "Model evaluation"],
+    "skills_nice_en": ["Cloud GPU rental", "Client communication", "English writing"],
+    "week_en": "Mon: bid and align with clients. Tue-Thu: clean data, run fine-tuning and evaluation. Fri: deliver weights and eval reports, review pricing.",
+    "entry_time_en": "1-3 months (build an Upwork profile plus 1-2 public cases)",
+    "barrier_en": "Needs demonstrable fine-tuning cases. Needs prepaid cloud GPU. Platform takes a cut.",
+    "revenue_src_en": "Freelance contracts (hourly)",
+    "risk_en": "Automated fine-tuning tools lower the barrier. A surge in AI freelance supply drives down prices.",
+    "next_en": "12-24 months to a VLA fine-tuning studio (L1-MICRO-02) or an expert consultant brand."
+  },
+  "L1-SOLO-02": {
+    "name_en": "Independent Embodied AI Researcher / LeRobot Contributor",
+    "do_en": "You publish LeRobot models and datasets on Hugging Face Hub. You do open research. You earn through bounties, sponsorships, and grants, building academic and technical reputation.",
+    "skills_must_en": ["LeRobotDataset/RLDS conversion", "SO-100/Koch teleop collection", "Model card publishing", "Research writing"],
+    "skills_nice_en": ["Publishing arXiv papers", "Twitter/X influence", "Grant applications"],
+    "week_en": "Mon-Wed: run experiments, train models, collect data. Thu: write and publish model cards and blogs. Fri: engage the community, apply for bounties and grants, maintain sponsor pages.",
+    "entry_time_en": "3-9 months to build visible output",
+    "barrier_en": "Needs a self-bought entry robot arm plus GPU. Self-discipline and slow reputation building.",
+    "revenue_src_en": "Sponsorships / bounties / grants",
+    "risk_en": "Open research is hard to monetize. Big-company open source crowds out individual contribution visibility.",
+    "next_en": "12-24 months to recruitment by a lab (L1-EMP) or seed funding to build tools (L1-MICRO-01)."
+  },
+  "L1-SOLO-03": {
+    "name_en": "Robotics / Embodied AI Educator and Content Creator",
+    "do_en": "You make teaching content for developers across levels. Topics span VLA model explainers, SO-ARM/LeRobot builds, and ROS2 courses. You earn through YouTube ads, Udemy courses, and sponsorships.",
+    "skills_must_en": ["Explaining robotics/VLA clearly", "Video production", "Course design", "Audience growth"],
+    "skills_nice_en": ["Hands-on build demos", "SEO", "Community management"],
+    "week_en": "Mon: pick topics and write scripts. Tue-Wed: record model explainers, robot builds, or ROS2 lessons. Thu: edit and publish. Fri: reply to comments, update courses, negotiate sponsorships.",
+    "entry_time_en": "6-12 months to grow an audience large enough to monetize",
+    "barrier_en": "Needs camera, microphone, and demo hardware. Slow audience growth and high dropout rate.",
+    "revenue_src_en": "Ads / course sales / sponsorships",
+    "risk_en": "AI-generated teaching content floods the market. Platform algorithm and revenue-share changes.",
+    "next_en": "12-24 months to a paid community or bootcamp, or co-branded sales with hardware makers."
+  },
+  "L1-SOLO-04": {
+    "name_en": "Embodied Red Team / VLA Evaluation Benchmark Builder",
+    "do_en": "You focus on adversarial testing and robustness evaluation of embodied models. You build adversarial instructions and evaluation harnesses. You run safety assessments for labs and companies by contract or bounty.",
+    "skills_must_en": ["Embodied red-teaming methods", "Adversarial instruction generation", "Safety/robustness benchmark design"],
+    "skills_nice_en": ["Publishing evaluation papers", "Safety compliance knowledge"],
+    "week_en": "Mon-Wed: design and run adversarial evaluations, build harnesses. Thu: organize findings and write reports. Fri: submit bounties, line up eval contracts, update public benchmarks.",
+    "entry_time_en": "3-6 months (need public evaluation work first)",
+    "barrier_en": "Needs solid evaluation and safety methodology. The market is still early.",
+    "revenue_src_en": "Contracts / bounties",
+    "risk_en": "The embodied safety market is immature. Demand depends on regulatory push.",
+    "next_en": "12-24 months to an embodied AI safety company or recruitment by a frontier lab."
+  }
+}

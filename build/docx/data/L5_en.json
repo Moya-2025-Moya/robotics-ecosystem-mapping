@@ -1,0 +1,110 @@
+{
+  "L5-EMP-01": {
+    "name_en": "Forward-Deployed / Solutions Engineer (Robotics Middleware)",
+    "do_en": "Run customer-facing end-to-end deployments at a robotics middleware company. Bring the platform onto customer robots and fleets. Handle integration and hardware prototyping.",
+    "skills_must_en": ["Python/C++", "ROS familiarity", "Customer deployment delivery", "Hardware prototyping"],
+    "skills_nice_en": ["TypeScript", "LLM/AI workflows", "Cloud"],
+    "week_en": "Monday: meet customers. Tuesday to Thursday: integrate the platform and bring fleets online. Friday: deliver, feed back to product, and travel sometimes.",
+    "entry_time_en": "0-3 months with a software or integration background",
+    "barrier_en": "Requires software ability. Some travel needed.",
+    "revenue_src_en": "Salary plus equity",
+    "risk_en": "Platform self-service features reduce the headcount needed for deployment.",
+    "next_en": "12-24 months to solutions lead or fleet integration consultant (L5-MICRO-01)."
+  },
+  "L5-EMP-02": {
+    "name_en": "Robotics Software Engineer (ROS2, Non-PhD Path)",
+    "do_en": "Write ROS2 software covering navigation, Nav2, integration, and SDKs. Open to self-taught and bootcamp software backgrounds. No PhD required.",
+    "skills_must_en": ["ROS2", "Python/C++", "Nav2", "Software fundamentals"],
+    "skills_nice_en": ["SLAM", "Cloud", "CI/CD"],
+    "week_en": "Monday: plan the schedule. Tuesday to Thursday: write and debug ROS2 features and integration. Friday: review, test, and release.",
+    "entry_time_en": "3-9 months to self-learn ROS2 to a hireable level",
+    "barrier_en": "Requires solid software ability and a portfolio. A PhD is not required.",
+    "revenue_src_en": "Salary plus equity",
+    "risk_en": "AI-assisted coding compresses junior roles.",
+    "next_en": "12-24 months to senior, middleware lead, or freelance ROS2 developer (L5-SOLO-01)."
+  },
+  "L5-EMP-03": {
+    "name_en": "Robotics Technical / Application Support Engineer (AMR Fleets)",
+    "do_en": "Provide after-sales technical support for AMR fleets. Handle CI/CD deployment, troubleshooting, and customer support.",
+    "skills_must_en": ["ROS2", "CI/CD deployment", "System troubleshooting", "Customer support"],
+    "skills_nice_en": ["Linux operations", "Networking"],
+    "week_en": "Monday to Friday: handle customer tickets, deploy updates, and troubleshoot remotely. Escalate critical issues. Send product feedback back.",
+    "entry_time_en": "0-3 months",
+    "barrier_en": "Requires ROS and operations basics.",
+    "revenue_src_en": "Salary plus equity",
+    "risk_en": "Remote self-diagnosis reduces support demand.",
+    "next_en": "12-24 months to solutions or deployment engineer (L5-EMP-01)."
+  },
+  "L5-EMP-04": {
+    "name_en": "Robotics DevOps/SRE and Functional Safety Engineer",
+    "do_en": "Run DevOps, SRE, and functional safety for safety-critical robotics stacks. Build deployment pipelines and V&V. Support safety certification.",
+    "skills_must_en": ["SRE/DevOps tooling", "Linux", "ROS2 integration", "V&V and safety certification"],
+    "skills_nice_en": ["Embedded C++", "Compliance standards (SIL)"],
+    "week_en": "Monday to Thursday: maintain deployment and CI, run V&V and safety cases, and monitor. Friday: write compliance docs and release.",
+    "entry_time_en": "3-6 months with a DevOps or embedded background",
+    "barrier_en": "Requires DevOps skills plus safety methodology.",
+    "revenue_src_en": "Salary plus equity",
+    "risk_en": "The safety market depends on regulatory progress.",
+    "next_en": "12-24 months to safety or platform engineering lead."
+  },
+  "L5-SOLO-01": {
+    "name_en": "Freelance ROS/ROS2 Software Developer",
+    "do_en": "Take ROS and ROS2 contracts on Upwork and Arc.dev. Work covers SLAM, PX4, and autonomous navigation.",
+    "skills_must_en": ["ROS2", "LiDAR SLAM", "PX4", "Python/C++"],
+    "skills_nice_en": ["Simulation", "Cloud", "Client communication"],
+    "week_en": "Monday: bid on jobs. Tuesday to Thursday: write and debug ROS2 code. Friday: deliver, demo, and review.",
+    "entry_time_en": "1-3 months to build a profile and case studies",
+    "barrier_en": "Requires a portfolio. Platforms take a cut.",
+    "revenue_src_en": "Freelance contracts",
+    "risk_en": "AI-assisted coding pushes prices down. Offshore competition adds pressure.",
+    "next_en": "12-24 months to fleet integration consultant (L5-MICRO-01) or employment (L5-EMP-02)."
+  },
+  "L5-SOLO-02": {
+    "name_en": "Robotics Platform Plugin / Module Developer (Viam/Foxglove)",
+    "do_en": "Build and publish modules or panels on the Viam Registry or Foxglove extension marketplace. Viam handles billing. Earn distribution income or consulting leads.",
+    "skills_must_en": ["Go/Python/C++/Rust", "Viam component/service API or Foxglove SDK", "GitHub Actions"],
+    "skills_nice_en": ["TypeScript/React", "ROS schema"],
+    "week_en": "Monday to Wednesday: build and test modules or extensions. Thursday: publish and write docs. Friday: track adoption and take consulting or custom work.",
+    "entry_time_en": "2-6 weeks for the first module",
+    "barrier_en": "Paid distribution is early-stage. Monetization is uncertain.",
+    "revenue_src_en": "Module distribution and resulting consulting",
+    "risk_en": "Paid distribution mechanisms are immature. Platform policy can change.",
+    "next_en": "12-24 months to a vertical SaaS built on the platform (L5-MICRO-02)."
+  },
+  "L5-SOLO-03": {
+    "name_en": "Open-Source Robotics Middleware Maintainer (GitHub Sponsors)",
+    "do_en": "Maintain open-source robotics middleware such as dora-rs or ROS packages. Earn through GitHub Sponsors, consulting, and bounties.",
+    "skills_must_en": ["Rust", "Dataflow architecture", "ROS interoperability", "OSS maintenance"],
+    "skills_nice_en": ["Documentation", "Community management"],
+    "week_en": "Monday to Wednesday: develop, maintain, and handle issues and PRs. Thursday: release. Friday: take consulting and maintain the sponsor page.",
+    "entry_time_en": "6-12 months to build project influence",
+    "barrier_en": "Requires systems programming skills. Sponsorship scales slowly.",
+    "revenue_src_en": "Sponsorships, consulting, and bounties",
+    "risk_en": "Pure OSS is hard to monetize. Large firms dominate the space.",
+    "next_en": "12-24 months to recruitment by a middleware company or a commercial project."
+  },
+  "L5-MICRO-01": {
+    "name_en": "Robotics Fleet Integration Consulting (1-5 People)",
+    "do_en": "Run a 1-5 person studio deploying Formant or InOrbit fleet operations and teleoperation for customers. Do cloud robotics integration.",
+    "skills_must_en": ["Fleet management", "Teleoperation setup", "Cloud robotics integration", "Python/TypeScript"],
+    "skills_nice_en": ["Industry domain knowledge", "Sales"],
+    "week_en": "Monday: meet customers. Tuesday to Thursday: integrate and deploy fleet operations. Friday: deliver, maintain, and discuss renewals or new deals.",
+    "entry_time_en": "1-3 months to the first deal",
+    "barrier_en": "Requires platform expertise plus customer relationships.",
+    "revenue_src_en": "Project fees and monthly retainers",
+    "risk_en": "Platform self-service grows. Customers build their own teams.",
+    "next_en": "12-24 months to a regional robotics integration services firm."
+  },
+  "L5-MICRO-02": {
+    "name_en": "Vertical SaaS Micro-App on Viam/Formant",
+    "do_en": "Run a 1-5 person team building a vertical robotics SaaS app on Viam or Formant. Charge customers for it.",
+    "skills_must_en": ["Platform SDK/API", "Web app development", "Vertical specialization", "Deployment"],
+    "skills_nice_en": ["Growth", "Design"],
+    "week_en": "Monday: review user feedback. Tuesday to Thursday: build vertical app features. Friday: ship, onboard customers, and market.",
+    "entry_time_en": "3-6 months to an MVP and first customers",
+    "barrier_en": "Requires platform plus app development skills and vertical customers.",
+    "revenue_src_en": "SaaS subscriptions",
+    "risk_en": "Platform policy or pricing can change. Vertical demand may be limited.",
+    "next_en": "12-24 months to a vertical robotics SaaS company."
+  }
+}

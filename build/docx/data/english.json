@@ -1,0 +1,1284 @@
+{
+ "L1-EMP-01": {
+  "name_en": "Robotics AI Developer Relations / Evangelist (DevRel)",
+  "do_en": "As a DevRel engineer at a foundation-model company, you explain the open-source robot learning stack. You write tutorials, run demos, and run the community for LeRobot, GR00T, and Isaac. You collect developer feedback and pass it to product teams.",
+  "skills_must_en": [
+   "Open-source community management",
+   "Robot learning basics (VLA/policy)",
+   "Python",
+   "Technical writing and speaking",
+   "GitHub/Hub workflows"
+  ],
+  "skills_nice_en": [
+   "Short video and livestream",
+   "Conference talks",
+   "Multilingual"
+  ],
+  "week_en": "Mon: clear community issues and answer Discord questions. Tue/Wed: write tutorials or record and publish demos. Thu: livestream and answer questions online. Fri: collect developer feedback for product and model teams, update docs.",
+  "entry_time_en": "3-6 months to build a public portfolio (tutorials/PRs) before hiring",
+  "barrier_en": "Needs a public portfolio of content and contributions. Needs English communication. Usually requires prior open-source contributions.",
+  "revenue_src_en": "Salary + equity",
+  "risk_en": "LLMs auto-generate docs and tutorials, cutting demand. The robot developer market is still small.",
+  "next_en": "12-24 months to DevRel lead, product marketing manager, or independent technical content business (see L1-SOLO-03)."
+ },
+ "L1-EMP-02": {
+  "name_en": "Field Deployment / Solutions Engineer (foundation-model robotics)",
+  "do_en": "At customer sites, you install, tune, and run foundation-model robot systems. You integrate hardware, network, and software, write custom code for client needs, and debug. The role accepts relevant technical experience, not a required PhD.",
+  "skills_must_en": [
+   "On-site deployment and debugging",
+   "Python",
+   "Policy rollout and data operations",
+   "Customer integration communication"
+  ],
+  "skills_nice_en": [
+   "ROS2",
+   "Network/Linux operations",
+   "Industry domain knowledge"
+  ],
+  "week_en": "Mon: align with customer schedules. Tue-Thu: install, calibrate, collect data, and tune policies on site. Fri: send back failure cases and data, submit adaptation PRs, write deployment reports.",
+  "entry_time_en": "0-3 months (software/integration experience allows direct hiring)",
+  "barrier_en": "Needs provable engineering project experience. Often requires travel. Needs geographic closeness to customers.",
+  "revenue_src_en": "Salary + equity",
+  "risk_en": "If foundation models become truly plug-and-play, demand for deployment labor drops.",
+  "next_en": "12-24 months to deployment lead, solutions architect, or micro-startup offering deployment services (L5-MICRO-01)."
+ },
+ "L1-MICRO-01": {
+  "name_en": "VLA Fine-tuning / Teleop-to-Policy Tooling Micro-startup",
+  "do_en": "A team of 1-5 builds tools or SaaS on top of open-source VLA (LeRobot/OpenPI/GR00T). It offers one-click fine-tuning and teleop-to-policy conversion. It sells to small and mid teams who want to train their own robots.",
+  "skills_must_en": [
+   "VLA training pipelines",
+   "Middleware/Docker packaging",
+   "VR teleop integration",
+   "Product/UX"
+  ],
+  "skills_nice_en": [
+   "Hardware supply",
+   "Growth marketing",
+   "Cloud GPU cost optimization"
+  ],
+  "week_en": "Mon: review user feedback and set priorities. Tue-Thu: build training and teleop features, fix pipelines. Fri: ship releases, write changelogs, run user demos and onboarding.",
+  "entry_time_en": "3-6 months to build a usable MVP",
+  "barrier_en": "Needs VLA training engineering skill plus seed users. Cloud GPU cost.",
+  "revenue_src_en": "SaaS subscription / service fees",
+  "risk_en": "If Hugging Face or NVIDIA official tools build in the same features, you are crushed.",
+  "next_en": "12-24 months to a YC/seed-funded data and training platform company."
+ },
+ "L1-MICRO-02": {
+  "name_en": "VLA Fine-tuning-as-a-Service Studio",
+  "do_en": "A team of 1-5 collects teleop data and fine-tunes usable VLA policies (OpenVLA/pi0/SmolVLA) per contract. It delivers evaluation reports. This is a service, not a product.",
+  "skills_must_en": [
+   "Teleop data collection (50Hz RLDS/LeRobot)",
+   "On-budget VLA training",
+   "Evaluation design"
+  ],
+  "skills_nice_en": [
+   "Multi-camera calibration",
+   "Customer domain knowledge"
+  ],
+  "week_en": "Mon: take requirements and define tasks. Tue-Wed: collect data. Thu: train and evaluate. Fri: deliver reports and weights, take in the next batch of tasks.",
+  "entry_time_en": "2-4 months (assemble collection gear plus training process)",
+  "barrier_en": "Needs collection hardware, GPUs, and evaluation methodology.",
+  "revenue_src_en": "Project contract fees",
+  "risk_en": "Falling data collection costs plus rising customer in-house ability squeeze margins.",
+  "next_en": "12-24 months to a data and policy company focused on one vertical, such as logistics."
+ },
+ "L1-SOLO-01": {
+  "name_en": "Open-source VLA Fine-tuning Freelance Consultant",
+  "do_en": "You take jobs on Upwork or Toptal. You fine-tune open-source VLA (OpenVLA/pi0) with LoRA/PEFT for clients. You clean LeRobot datasets, train on a single card, and evaluate.",
+  "skills_must_en": [
+   "PEFT/LoRA fine-tuning",
+   "LeRobot data format",
+   "Single-GPU (A100/H100) training",
+   "Model evaluation"
+  ],
+  "skills_nice_en": [
+   "Cloud GPU rental",
+   "Client communication",
+   "English writing"
+  ],
+  "week_en": "Mon: bid and align with clients. Tue-Thu: clean data, run fine-tuning and evaluation. Fri: deliver weights and eval reports, review pricing.",
+  "entry_time_en": "1-3 months (build an Upwork profile plus 1-2 public cases)",
+  "barrier_en": "Needs demonstrable fine-tuning cases. Needs prepaid cloud GPU. Platform takes a cut.",
+  "revenue_src_en": "Freelance contracts (hourly)",
+  "risk_en": "Automated fine-tuning tools lower the barrier. A surge in AI freelance supply drives down prices.",
+  "next_en": "12-24 months to a VLA fine-tuning studio (L1-MICRO-02) or an expert consultant brand."
+ },
+ "L1-SOLO-02": {
+  "name_en": "Independent Embodied AI Researcher / LeRobot Contributor",
+  "do_en": "You publish LeRobot models and datasets on Hugging Face Hub. You do open research. You earn through bounties, sponsorships, and grants, building academic and technical reputation.",
+  "skills_must_en": [
+   "LeRobotDataset/RLDS conversion",
+   "SO-100/Koch teleop collection",
+   "Model card publishing",
+   "Research writing"
+  ],
+  "skills_nice_en": [
+   "Publishing arXiv papers",
+   "Twitter/X influence",
+   "Grant applications"
+  ],
+  "week_en": "Mon-Wed: run experiments, train models, collect data. Thu: write and publish model cards and blogs. Fri: engage the community, apply for bounties and grants, maintain sponsor pages.",
+  "entry_time_en": "3-9 months to build visible output",
+  "barrier_en": "Needs a self-bought entry robot arm plus GPU. Self-discipline and slow reputation building.",
+  "revenue_src_en": "Sponsorships / bounties / grants",
+  "risk_en": "Open research is hard to monetize. Big-company open source crowds out individual contribution visibility.",
+  "next_en": "12-24 months to recruitment by a lab (L1-EMP) or seed funding to build tools (L1-MICRO-01)."
+ },
+ "L1-SOLO-03": {
+  "name_en": "Robotics / Embodied AI Educator and Content Creator",
+  "do_en": "You make teaching content for developers across levels. Topics span VLA model explainers, SO-ARM/LeRobot builds, and ROS2 courses. You earn through YouTube ads, Udemy courses, and sponsorships.",
+  "skills_must_en": [
+   "Explaining robotics/VLA clearly",
+   "Video production",
+   "Course design",
+   "Audience growth"
+  ],
+  "skills_nice_en": [
+   "Hands-on build demos",
+   "SEO",
+   "Community management"
+  ],
+  "week_en": "Mon: pick topics and write scripts. Tue-Wed: record model explainers, robot builds, or ROS2 lessons. Thu: edit and publish. Fri: reply to comments, update courses, negotiate sponsorships.",
+  "entry_time_en": "6-12 months to grow an audience large enough to monetize",
+  "barrier_en": "Needs camera, microphone, and demo hardware. Slow audience growth and high dropout rate.",
+  "revenue_src_en": "Ads / course sales / sponsorships",
+  "risk_en": "AI-generated teaching content floods the market. Platform algorithm and revenue-share changes.",
+  "next_en": "12-24 months to a paid community or bootcamp, or co-branded sales with hardware makers."
+ },
+ "L1-SOLO-04": {
+  "name_en": "Embodied Red Team / VLA Evaluation Benchmark Builder",
+  "do_en": "You focus on adversarial testing and reliability testing of embodied models. You build adversarial instructions and evaluation harnesses. You run safety assessments for labs and companies by contract or bounty.",
+  "skills_must_en": [
+   "Embodied red-teaming methods",
+   "Adversarial instruction generation",
+   "Safety and reliability benchmark design"
+  ],
+  "skills_nice_en": [
+   "Publishing evaluation papers",
+   "Safety compliance knowledge"
+  ],
+  "week_en": "Mon-Wed: design and run adversarial evaluations, build harnesses. Thu: organize findings and write reports. Fri: submit bounties, line up eval contracts, update public benchmarks.",
+  "entry_time_en": "3-6 months (need public evaluation work first)",
+  "barrier_en": "Needs solid evaluation and safety methodology. The market is still early.",
+  "revenue_src_en": "Contracts / bounties",
+  "risk_en": "The embodied safety market is immature. Demand depends on regulatory push.",
+  "next_en": "12-24 months to an embodied AI safety company or recruitment by a frontier lab."
+ },
+ "L2-EMP-01": {
+  "name_en": "Synthetic Data / Simulation Pipeline Engineer",
+  "do_en": "Build data pipelines for simulation and synthetic data firms. This covers sensor simulation, domain randomization, and auto-generated labeled training data. The data feeds client perception and manipulation models.",
+  "skills_must_en": [
+   "Python",
+   "Data pipelines",
+   "Domain randomization",
+   "Sensor and labeling workflows",
+   "Computational geometry"
+  ],
+  "skills_nice_en": [
+   "Unreal/Unity",
+   "CV/ML",
+   "Cloud batch processing"
+  ],
+  "week_en": "Monday: align on data requirements. Tuesday to Thursday: build and tune pipelines, then generate and quality-check datasets. Friday: deliver data and tune generation parameters.",
+  "entry_time_en": "3-6 months with a data or Python engineering background.",
+  "barrier_en": "Requires software engineering skill, though a PhD is not required. Competition is intense.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Generative world models may replace hand-built synthetic data pipelines.",
+  "next_en": "12-24 months to senior simulation platform engineer, or freelance synthetic data contracting (L2-SOLO-01)."
+ },
+ "L2-EMP-02": {
+  "name_en": "Simulation Software Engineer (Game Engines)",
+  "do_en": "Build robot simulation environments and engine features in Unreal, Unity, or Omniverse. This work supports sim-to-real training and validation.",
+  "skills_must_en": [
+   "C++/Python",
+   "Game engine and simulation programming",
+   "Rendering or physics modeling"
+  ],
+  "skills_nice_en": [
+   "RL",
+   "Domain randomization",
+   "Sim-to-real"
+  ],
+  "week_en": "Monday: plan the schedule. Tuesday to Thursday: build engine and environment features, then fix bugs. Friday: code review and integration testing.",
+  "entry_time_en": "3-6 months with an engine or game programming background.",
+  "barrier_en": "Requires strong C++ and engine skills. Moving from games is feasible.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Engine vendor tools plus AI-assisted coding cut headcount needs.",
+  "next_en": "12-24 months to simulation team lead, or selling simulation assets solo (L2-SOLO-02)."
+ },
+ "L2-EMP-03": {
+  "name_en": "Simulation Solutions Architect (Omniverse/Isaac/Digital Twin)",
+  "do_en": "Deploy Isaac Sim, Omniverse, and digital twin solutions for clients and partners. Build scenes, run integrations, and deliver enablement demos. The role leans toward DevRel plus solutions.",
+  "skills_must_en": [
+   "Isaac Sim/Lab",
+   "OpenUSD",
+   "ROS2",
+   "Python and C++"
+  ],
+  "skills_nice_en": [
+   "3D content",
+   "Client presentations",
+   "Partner management"
+  ],
+  "week_en": "Monday: gather client requirements. Tuesday to Thursday: build demo scenes and integrate robot algorithms. Friday: run client enablement and feed feedback to NVIDIA product lines.",
+  "entry_time_en": "3-9 months to master the Omniverse and USD stack.",
+  "barrier_en": "Requires Omniverse and USD expertise plus client communication skills.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Demand falls if the Omniverse environment contracts.",
+  "next_en": "12-24 months to solutions manager, or independent Omniverse consultant."
+ },
+ "L2-MICRO-01": {
+  "name_en": "World Model / Simulation Environment Micro-Startup (Policy Evaluation)",
+  "do_en": "A team of 1-5 builds world models or simulation environments. These train and evaluate robot policies, such as cloth or packing tasks. Sell access or evaluation services.",
+  "skills_must_en": [
+   "World models and simulation",
+   "Manipulation task modeling",
+   "Training and evaluation infrastructure"
+  ],
+  "skills_nice_en": [
+   "Fundraising",
+   "RL",
+   "Growth"
+  ],
+  "week_en": "Monday: set R&D priorities. Tuesday to Thursday: build simulation tasks and evaluation pipelines. Friday: meet clients and investors, then ship a demo.",
+  "entry_time_en": "6-12 months to a demonstrable product.",
+  "barrier_en": "High technical bar. Mostly venture-driven with no early revenue.",
+  "revenue_src_en": "Seed funding and early contracts (founder salary)",
+  "risk_en": "Large-vendor world models like NVIDIA Cosmos squeeze the space. Technical risk is high.",
+  "next_en": "12-24 months to a funded simulation or world model company via a seed round."
+ },
+ "L2-MICRO-02": {
+  "name_en": "Manufacturing Synthetic Data + Simulation CV Micro-Startup",
+  "do_en": "A team of 1-5 builds synthetic data and simulation CV products for manufacturing. Clients shoot less real data while still training defect detection and grasping models.",
+  "skills_must_en": [
+   "Synthetic data generation",
+   "Simulation",
+   "Edge CV deployment"
+  ],
+  "skills_nice_en": [
+   "Manufacturing domain knowledge",
+   "Sales"
+  ],
+  "week_en": "Monday: meet clients. Tuesday to Thursday: generate data, train models, and deploy edge CV. Friday: run client acceptance and iterate.",
+  "entry_time_en": "6-12 months.",
+  "barrier_en": "Requires CV plus manufacturing know-how and early clients.",
+  "revenue_src_en": "Product and project revenue",
+  "risk_en": "General CV and foundation models erode demand for custom synthetic data.",
+  "next_en": "12-24 months to a vertical manufacturing AI inspection company."
+ },
+ "L2-SOLO-01": {
+  "name_en": "Freelance Robot Simulation Engineer (Isaac/Gazebo/ROS2)",
+  "do_en": "Take jobs on Upwork to build simulation environments, model URDF, and run navigation or manipulation simulation. Also handle synthetic data pipelines.",
+  "skills_must_en": [
+   "ROS2",
+   "Isaac Sim/Gazebo",
+   "URDF/Xacro",
+   "Nav2 and motion planning"
+  ],
+  "skills_nice_en": [
+   "Domain randomization",
+   "CV",
+   "Client communication"
+  ],
+  "week_en": "Monday: submit bids. Tuesday to Thursday: build simulations, model, and tune parameters. Friday: deliver, record a demo video, and review.",
+  "entry_time_en": "1-3 months to build a profile and case studies.",
+  "barrier_en": "Requires a portfolio. Platform takes a cut. Needs a strong GPU machine.",
+  "revenue_src_en": "Freelance contracts",
+  "risk_en": "AI assistance lowers the bar and cuts prices. Simulation-as-a-service platforms emerge.",
+  "next_en": "12-24 months to a simulation studio, or joining a platform (L2-EMP)."
+ },
+ "L2-SOLO-02": {
+  "name_en": "SimReady / USD Digital Twin 3D Asset Seller",
+  "do_en": "Build and sell physics-ready SimReady USD assets and scenes on Omniverse, Unreal Fab, and Unity Asset Store. Robot teams buy them to build simulations. Income is passive plus custom work.",
+  "skills_must_en": [
+   "OpenUSD modeling",
+   "USDPhysics properties",
+   "Semantic labeling",
+   "Modular scene modeling"
+  ],
+  "skills_nice_en": [
+   "Materials and rendering",
+   "Automated batch asset production"
+  ],
+  "week_en": "Monday to Wednesday: model and add physics and semantic properties. Thursday: publish and write docs. Friday: check sales, do custom orders, and update popular assets.",
+  "entry_time_en": "1-3 months to ship a first batch of assets.",
+  "barrier_en": "Requires 3D modeling skill. Long-tail passive income ramps slowly.",
+  "revenue_src_en": "Asset sales plus custom work",
+  "risk_en": "Generative 3D, where text creates assets, disrupts the hand-built asset market.",
+  "next_en": "12-24 months to a digital twin asset studio, or large-vendor custom contracts."
+ },
+ "L2-SOLO-03": {
+  "name_en": "MuJoCo / Isaac Lab Plugin and Sim-to-Real Developer",
+  "do_en": "Maintain MuJoCo and Isaac Lab plugins and RL sim-to-real tools on GitHub. Monetize through GitHub Sponsors, bounties, and consulting.",
+  "skills_must_en": [
+   "MuJoCo C API",
+   "MJCF",
+   "GPU physics (Warp)",
+   "RL",
+   "Sim-to-real"
+  ],
+  "skills_nice_en": [
+   "Docs and tutorials",
+   "Community maintenance"
+  ],
+  "week_en": "Monday to Wednesday: develop plugins and handle issues and PRs. Thursday: release and write docs. Friday: take consulting jobs and maintain the sponsor page.",
+  "entry_time_en": "3-9 months to build project influence.",
+  "barrier_en": "Requires deep simulation and RL skill. Sponsor income ramps slowly.",
+  "revenue_src_en": "GitHub Sponsors, bounties, and consulting",
+  "risk_en": "Official tools absorb plugin features. Pure open-source monetization is hard.",
+  "next_en": "12-24 months to recruitment by a simulation company, or building a paid tool."
+ },
+ "L3-SOLO-01-WEST": {
+  "name_en": "Home Remote Teleoperation Data Collector",
+  "do_en": "You use personal VR or SO-ARM gear at home to teleoperate robots. You record demonstration data and get paid per demo. This data trains robot models.",
+  "skills_must_en": [
+   "VR/teleoperation device operation",
+   "Pick-and-place dexterity",
+   "Fast demo output"
+  ],
+  "skills_nice_en": [
+   "Data quality checking",
+   "Multi-task adaptation"
+  ],
+  "week_en": "Monday you pick up the task list. Tuesday to Friday you teleoperate remotely and collect demos. You self-check pass rates and submit for payment.",
+  "entry_time_en": "Several days to two weeks (gear setup plus training)",
+  "barrier_en": "Requires VR/teleoperation gear and stable internet. Piece-rate income is volatile.",
+  "revenue_src_en": "Per-demo or hourly pay",
+  "risk_en": "Simulated data or low-cost overseas collection may replace this. Automated data generation is a further threat.",
+  "next_en": "In 12-24 months, move to a teleoperation data studio (L3-MICRO-01-WEST) or become a team lead."
+ },
+ "L3-SOLO-01-CN": {
+  "name_en": "On-Site Teleoperation Data Collector",
+  "do_en": "You work on-site at a data collection factory. You wear teleoperation or exoskeleton gear and repeatedly collect robot demonstration data. Pay is per session or per work hour.",
+  "skills_must_en": [
+   "Teleoperation device operation",
+   "Repetitive task tolerance",
+   "Standardized movements"
+  ],
+  "skills_nice_en": [
+   "Quality checking",
+   "Equipment maintenance"
+  ],
+  "week_en": "You follow the factory shift schedule. Each day you repeat several sessions of the same task type. Each session runs about three hours, with on-site checks before payment.",
+  "entry_time_en": "Several days (onboarding training)",
+  "barrier_en": "Requires a nearby data factory. Pay is low with repetitive strain risk.",
+  "revenue_src_en": "Hourly or per-session wage",
+  "risk_en": "Collection automation or simulation may replace this work. Regional overcapacity also pushes prices down.",
+  "next_en": "In 12-24 months, become a data factory team lead or operations role (L3-MICRO-01-CN)."
+ },
+ "L3-SOLO-02": {
+  "name_en": "Robot Demonstration Dataset Creator and Seller",
+  "do_en": "You record demonstration datasets with your own SO-ARM100 or ALOHA. You sell them per set or by license on the Hugging Face Hub or data markets like DeepAware. You may also earn bounties.",
+  "skills_must_en": [
+   "SO-ARM assembly",
+   "lerobot-record",
+   "Episode quality checking",
+   "License selection"
+  ],
+  "skills_nice_en": [
+   "Dataset packaging and docs",
+   "Quality score tuning"
+  ],
+  "week_en": "Monday you pick high-demand tasks. Tuesday to Thursday you record, check, and package. Friday you list, price, set licenses, and follow up with buyers.",
+  "entry_time_en": "Two to four weeks (assemble gear plus first dataset)",
+  "barrier_en": "Requires buying your own robot arm. Market demand and pricing are unstable.",
+  "revenue_src_en": "Dataset sales or bounties",
+  "risk_en": "A surge in dataset supply pushes prices down. Large firms may build their own data.",
+  "next_en": "In 12-24 months, move to a micro data studio (L3-MICRO-01)."
+ },
+ "L3-SOLO-03": {
+  "name_en": "Egocentric Demonstration Video Gig Collector",
+  "do_en": "You wear a head camera or phone to record first-person operation videos. You collect these in homes, factories, or retail settings. Pay is hourly or per task, feeding embodied learning.",
+  "skills_must_en": [
+   "Wearable camera capture",
+   "Task execution",
+   "Basic framing"
+  ],
+  "skills_nice_en": [
+   "Multi-scene adaptation",
+   "Upload and labeling support"
+  ],
+  "week_en": "You complete daily tasks at assigned sites per your dispatch. You record first-person video, upload it the same day, and get paid after quality checks.",
+  "entry_time_en": "Several days (sign-up plus gear)",
+  "barrier_en": "Limited by regional availability. Hourly pay is low, especially in emerging markets.",
+  "revenue_src_en": "Gig hourly pay",
+  "risk_en": "Ample supply keeps unit prices low. Demand drops once data saturates.",
+  "next_en": "In 12-24 months, become a collection team supervisor (L3-MICRO-03)."
+ },
+ "L3-SOLO-04": {
+  "name_en": "Crypto Teleoperation / Drive-to-Earn Data Operator",
+  "do_en": "You remotely operate robots or street rovers through decentralized protocols to earn tokens and points. PrismaX combines staking with teleoperation. FrodoBots pays for driving. Earnings depend on tokens not yet launched.",
+  "skills_must_en": [
+   "Standardized teleoperation/remote driving",
+   "Wallet and staking operations",
+   "Speed and accuracy"
+  ],
+  "skills_nice_en": [
+   "Crypto understanding",
+   "Multi-account management"
+  ],
+  "week_en": "Each day you complete teleoperation or driving tasks to earn points and quick rebates. You manage staking and wallets and watch TGE progress.",
+  "entry_time_en": "Several days (sign-up plus gear or rental car)",
+  "barrier_en": "Tokens are pre-TGE, so cash value is highly uncertain. Gear or car rental adds cost.",
+  "revenue_src_en": "Tokens / points (speculative)",
+  "risk_en": "Tokens may go to zero or the project may fail. Regulation and reward dilution are further risks.",
+  "next_en": "In 12-24 months, run a teleoperation guild (L3-MICRO-04)."
+ },
+ "L3-SOLO-05": {
+  "name_en": "Crypto-Incentivized Data Annotator",
+  "do_en": "You annotate and verify data on a blockchain data protocol like Codatta. This includes robot trajectories and address metadata. You earn points and ongoing royalties based on quality scores.",
+  "skills_must_en": [
+   "Data annotation",
+   "Domain knowledge",
+   "Consensus verification"
+  ],
+  "skills_nice_en": [
+   "Crypto wallet",
+   "Data quality tuning"
+  ],
+  "week_en": "Each day you take annotation tasks, submit them, and join consensus verification. You build up points and royalties and track token activity.",
+  "entry_time_en": "A few hours (start right after sign-up)",
+  "barrier_en": "Returns are highly uncertain. Token value is low and earnings depend on speculative tokens.",
+  "revenue_src_en": "Tokens / points / royalties (speculative)",
+  "risk_en": "Tokens may go to zero or reward pools may dilute. The protocol may fail.",
+  "next_en": "In 12-24 months, run an annotation community or build royalty-bearing assets."
+ },
+ "L3-SOLO-06": {
+  "name_en": "Freelance Motion Capture Collector",
+  "do_en": "You use Rokoko or Xsens mocap suits and gloves to capture human demonstration motions. You take jobs on Fiverr or Upwork. You clean and export the data for robots or animation.",
+  "skills_must_en": [
+   "Suit calibration",
+   "Full-body and finger capture",
+   "FBX export and cleanup"
+  ],
+  "skills_nice_en": [
+   "Character retargeting",
+   "Animation post-production"
+  ],
+  "week_en": "Monday you take jobs and talk with clients. Tuesday to Thursday you calibrate, capture, and clean data. Friday you deliver, review, and maintain your portfolio.",
+  "entry_time_en": "Two to four weeks (gear setup plus sample reel)",
+  "barrier_en": "A mocap suit and gloves require notable starting capital.",
+  "revenue_src_en": "Per-job or hourly pay",
+  "risk_en": "Markerless video mocap using pure computer vision may replace suits.",
+  "next_en": "In 12-24 months, run a motion-capture-as-a-service studio (L3-MICRO-02)."
+ },
+ "L3-SOLO-07": {
+  "name_en": "Freelance Data Annotation Contractor",
+  "do_en": "You take robot multimodal data jobs on platforms like Upwork. These cover video, depth, and force annotation plus quality checks. Pay is hourly or per piece.",
+  "skills_must_en": [
+   "Image/video annotation",
+   "Annotation quality checking",
+   "Annotation tools"
+  ],
+  "skills_nice_en": [
+   "3D/LiDAR annotation",
+   "Script automation"
+  ],
+  "week_en": "Monday you take jobs. Tuesday to Friday you annotate in batches and self-check. Friday you settle pay and seek long-term clients.",
+  "entry_time_en": "Several days to two weeks",
+  "barrier_en": "Low entry bar leads to heavy competition and price pressure.",
+  "revenue_src_en": "Hourly or per-piece pay",
+  "risk_en": "Auto-annotation models may replace basic annotation. Low-price competition is a further threat.",
+  "next_en": "In 12-24 months, become an annotation QC lead (L3-EMP-03) or run a micro annotation shop (L3-MICRO-05)."
+ },
+ "L3-MICRO-01-WEST": {
+  "name_en": "Micro Teleoperation Data Studio",
+  "do_en": "A team of one to five runs several SO-ARM or teleoperation stations. You collect demonstration data in batches under contract. You sell it to labs and data companies.",
+  "skills_must_en": [
+   "Multi-station operations",
+   "Capacity scheduling",
+   "Gold-standard demo design"
+  ],
+  "skills_nice_en": [
+   "Quality check automation",
+   "Client business development"
+  ],
+  "week_en": "Monday you take contracts and set tasks. Tuesday to Thursday you collect across stations and check quality. Friday you deliver batches, reconcile, and pitch new deals.",
+  "entry_time_en": "One to three months (gear, process, plus first deal)",
+  "barrier_en": "Requires multiple gear sets and steady clients. Cash flow comes up front.",
+  "revenue_src_en": "Per-set or per-batch contracts",
+  "risk_en": "Low-cost overseas collection plus simulation may replace this. Clients may build in-house.",
+  "next_en": "In 12-24 months, grow into a regional data collection company."
+ },
+ "L3-MICRO-01-CN": {
+  "name_en": "Robot Data Collection Factory Operator",
+  "do_en": "You run a physical data collection site with dozens of stations. You organize workers to collect teleoperation and demonstration data in bulk. You sell it per set to robot companies, at larger scale and lower price than Western studios.",
+  "skills_must_en": [
+   "Site and station operations",
+   "Worker recruiting and scheduling",
+   "Bulk quality checking",
+   "Client contracts"
+  ],
+  "skills_nice_en": [
+   "Government subsidy liaison",
+   "Supply chain"
+  ],
+  "week_en": "You manage multiple worker shifts collecting data. You quality-check and store it per SOP. You deliver large batches to robot firms under contract.",
+  "entry_time_en": "Three to nine months (site, gear, plus staffing)",
+  "barrier_en": "High capital, site, and staffing needs. This is a small business, not a solo role.",
+  "revenue_src_en": "Bulk per-set contracts",
+  "risk_en": "Regional overcapacity pushes prices down. Collection automation is a further threat.",
+  "next_en": "In 12-24 months, become a leading regional data supplier."
+ },
+ "L3-MICRO-02": {
+  "name_en": "Motion-Capture-as-a-Service Boutique Studio",
+  "do_en": "A team of one to five runs its own Rokoko or Xsens mocap stage. You take custom human motion capture and cleanup jobs. You serve robot, game, and film clients.",
+  "skills_must_en": [
+   "Stage capture",
+   "Cleanup pipeline",
+   "Retargeting",
+   "Client delivery"
+  ],
+  "skills_nice_en": [
+   "Studio space",
+   "Character rigging",
+   "Sales"
+  ],
+  "week_en": "Monday and Tuesday you schedule and set up the stage. Wednesday and Thursday you capture multiple projects. Friday you clean, deliver, and pitch new projects.",
+  "entry_time_en": "One to three months (stage, sample reel, plus clients)",
+  "barrier_en": "Requires gear and studio space capital plus client development.",
+  "revenue_src_en": "Per-session or per-project pay",
+  "risk_en": "Markerless video mocap lowers demand for studio stages.",
+  "next_en": "In 12-24 months, grow into a regional mocap or data service company."
+ },
+ "L3-MICRO-03": {
+  "name_en": "Egocentric Collection Team Operations / Field Supervisor",
+  "do_en": "You recruit and manage a team of gig workers wearing cameras. You organize bulk first-person data collection in factories, homes, and retail. You earn the service margin on volume.",
+  "skills_must_en": [
+   "Team recruiting",
+   "Field logistics",
+   "Collection quality checking",
+   "Headset fitting"
+  ],
+  "skills_nice_en": [
+   "Multi-city operations",
+   "Data platform integration"
+  ],
+  "week_en": "You recruit and schedule workers and deploy them to sites. You run quality checks and manage uploads. You settle by 4K video volume and grow the team.",
+  "entry_time_en": "One to three months (build team plus first contracts)",
+  "barrier_en": "Requires a labor network and field management. Thin unit price relies on volume.",
+  "revenue_src_en": "Volume service margin",
+  "risk_en": "Demand drops once data saturates. Platforms may hire directly and bypass middlemen.",
+  "next_en": "In 12-24 months, grow into a regional data collection service company."
+ },
+ "L3-MICRO-04": {
+  "name_en": "Crypto Teleoperation Guild Operator",
+  "do_en": "You form and stake a teleoperation guild on PrismaX. You recruit and dispatch operators. You take a share of the points and quick rebates they produce. Earnings depend on tokens not yet launched.",
+  "skills_must_en": [
+   "Guild organization",
+   "Staking management",
+   "Operator coordination",
+   "QRB optimization"
+  ],
+  "skills_nice_en": [
+   "Crypto community operations",
+   "Multi-account and anti-cheat"
+  ],
+  "week_en": "You recruit and train operators and manage staking and task routing. You monitor output and rewards. You distribute earnings and grow headcount.",
+  "entry_time_en": "Several weeks (build team plus staking)",
+  "barrier_en": "Tokens are pre-TGE, so returns are uncertain. Requires community and staked capital.",
+  "revenue_src_en": "Guild revenue share (speculative)",
+  "risk_en": "Tokens may go to zero or the project may fail. Regulation is a further risk.",
+  "next_en": "In 12-24 months, operate a decentralized data network."
+ },
+ "L3-MICRO-05": {
+  "name_en": "Annotation / Quality-Check Micro Vendor",
+  "do_en": "A team of one to five runs a small annotation shop. You take subcontracted robot multimodal annotation and quality checks from data platforms. You handle delivery and staff training.",
+  "skills_must_en": [
+   "Annotation pipeline management",
+   "QC supervision",
+   "Client delivery",
+   "Annotator training"
+  ],
+  "skills_nice_en": [
+   "3D/LiDAR annotation",
+   "Tool building"
+  ],
+  "week_en": "Monday you take subcontracts and set the SOP. Tuesday to Thursday you organize annotation and quality checks. Friday you deliver, reconcile, and train new annotators.",
+  "entry_time_en": "One to two months (build team plus first deal)",
+  "barrier_en": "Requires client subcontract relationships. Margins are thin.",
+  "revenue_src_en": "Subcontract contracts",
+  "risk_en": "Auto-annotation may replace this. Low-price regional competition is a further threat.",
+  "next_en": "In 12-24 months, grow into a regional annotation service company or specialize in one modality."
+ },
+ "L3-EMP-01": {
+  "name_en": "Remote Teleoperation Operator",
+  "do_en": "You work as a salaried operator at a teleoperation-as-a-service company. You use VR or XR to remotely control robots. You collect data or handle edge cases.",
+  "skills_must_en": [
+   "VR/XR teleoperation",
+   "Haptic hand tracking",
+   "Troubleshooting",
+   "Operation dexterity"
+  ],
+  "skills_nice_en": [
+   "Multi-robot adaptation",
+   "Shift tolerance"
+  ],
+  "week_en": "You teleoperate robots by shift to collect data or take over. You log sessions, handle exceptions, and hand off cleanly.",
+  "entry_time_en": "Several days to two weeks (onboarding training)",
+  "barrier_en": "Requires stable internet and shift work. Some roles require on-site presence.",
+  "revenue_src_en": "Wage (hourly)",
+  "risk_en": "More autonomy reduces human takeover. Offshore low-wage competition is a further threat.",
+  "next_en": "In 12-24 months, become an operations supervisor or data operations role (L3-EMP-02)."
+ },
+ "L3-EMP-02": {
+  "name_en": "Data Operations Manager / Human Data Strategist",
+  "do_en": "You manage annotation projects at a data company. You improve data quality, train annotators, and work with clients. You ensure robot data is delivered.",
+  "skills_must_en": [
+   "Annotation project management",
+   "Data quality tuning",
+   "Annotator training",
+   "Client communication"
+  ],
+  "skills_nice_en": [
+   "Scripting and tools",
+   "Industry domain knowledge"
+  ],
+  "week_en": "Monday you set the project plan. Tuesday to Thursday you monitor quality, coordinate annotators, and align with clients. Friday you review metrics and improve SOPs.",
+  "entry_time_en": "Zero to three months (with operations or PM experience)",
+  "barrier_en": "Requires PM or operations experience. This is not an entry-level role.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Annotation automation may shrink team size.",
+  "next_en": "In 12-24 months, become a data operations director or run your own annotation shop (L3-MICRO-05)."
+ },
+ "L3-EMP-03": {
+  "name_en": "Robot Data Annotator / Video Reviewer",
+  "do_en": "You work as a salaried annotator at a data engine company. You review teleoperation trajectories and multi-view video. You label the data.",
+  "skills_must_en": [
+   "Video review",
+   "Teleoperation trajectory annotation",
+   "Multi-view annotation"
+  ],
+  "skills_nice_en": [
+   "3D annotation",
+   "Quality checking"
+  ],
+  "week_en": "You review and annotate video and trajectories by queue. You label per the spec, self-check, and meet daily output targets.",
+  "entry_time_en": "Several days (training)",
+  "barrier_en": "Low entry bar. Pay is on the low side.",
+  "revenue_src_en": "Wage (hourly)",
+  "risk_en": "Auto-annotation may replace basic roles.",
+  "next_en": "In 12-24 months, become an annotation QC lead or data operations role (L3-EMP-02)."
+ },
+ "L3-EMP-04": {
+  "name_en": "Data Contributor Recruiting / Community Operations",
+  "do_en": "You recruit, screen, and train annotators and operators for a data company. You grow the global network of data contributors.",
+  "skills_must_en": [
+   "Recruiting and sourcing",
+   "Screening and onboarding",
+   "Training",
+   "Network expansion"
+  ],
+  "skills_nice_en": [
+   "Multilingual",
+   "Growth operations"
+  ],
+  "week_en": "Monday you set recruiting targets. Tuesday to Thursday you source, interview, and onboard. Friday you review retention and capacity and tune the funnel.",
+  "entry_time_en": "Zero to three months",
+  "barrier_en": "Requires recruiting or operations experience.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "AI auto-recruiting, such as micro1 Zara, may replace some human work.",
+  "next_en": "In 12-24 months, become a community or operations lead."
+ },
+ "L3-EMP-05": {
+  "name_en": "Data Platform / Data Infrastructure Engineer",
+  "do_en": "You build infrastructure for robot multimodal data platforms. This covers data ingestion, retrieval, visualization, and ML pipeline tools.",
+  "skills_must_en": [
+   "Multimodal data infrastructure",
+   "ML pipelines",
+   "Data retrieval/visualization tools"
+  ],
+  "skills_nice_en": [
+   "MCAP/ROS bag",
+   "Cloud and distributed systems"
+  ],
+  "week_en": "Monday you plan the sprint. Tuesday to Thursday you build data platform features and tools. Friday you review, ship, and support internal users.",
+  "entry_time_en": "Three to six months (with a data engineering background)",
+  "barrier_en": "Requires software engineering skills, but a PhD is not required.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "General data platforms may replace purpose-built tools.",
+  "next_en": "In 12-24 months, become a senior or platform lead, or move to L5 middleware."
+ },
+ "L4-EMP-01": {
+  "name_en": "Humanoid Robot Operator / Teleoperation Data Pilot",
+  "do_en": "Wear teleoperation or motion-capture gear to drive humanoid robots and collect training data. Follow set procedures, log failures, and upload sessions. A high school diploma is enough to start.",
+  "skills_must_en": [
+   "Wearing teleop/motion-capture gear",
+   "Following written procedures",
+   "Data upload and labeling",
+   "Physical stamina (lifting, long standing)"
+  ],
+  "skills_nice_en": [
+   "Multiple robot models",
+   "Fault logging"
+  ],
+  "week_en": "Each shift, wear the gear and guide robots through behaviors for data collection. Label each session. File failure tickets. Set up the work environment.",
+  "entry_time_en": "A few days to two weeks of training",
+  "barrier_en": "Requires a nearby lab. Physical stamina needed. Most work is on-site.",
+  "revenue_src_en": "Hourly wage",
+  "risk_en": "Autonomy and simulated data may cut the need for on-site collection.",
+  "next_en": "In 12-24 months, move to operations supervisor, data operations, or test technician (L4-EMP-02)."
+ },
+ "L4-EMP-02": {
+  "name_en": "Robot Assembly and Test Technician",
+  "do_en": "Assemble robot subassemblies by procedure. Run powered tests and hardware QA using oscilloscopes and multimeters. Record defects. No PhD required.",
+  "skills_must_en": [
+   "Procedural assembly",
+   "Oscilloscope/multimeter testing",
+   "Hardware QA",
+   "Defect recording"
+  ],
+  "skills_nice_en": [
+   "Soldering",
+   "Mechanical/electronics basics"
+  ],
+  "week_en": "Assemble subassemblies from work orders. Run bring-up tests and QA. Record and report defects. Support engineering iterations.",
+  "entry_time_en": "A few weeks of on-the-job training",
+  "barrier_en": "Requires a nearby factory. Hands-on ability needed.",
+  "revenue_src_en": "Wage",
+  "risk_en": "Production lines automate. Mass production may move to low-cost regions.",
+  "next_en": "In 12-24 months, move to test engineer, line supervisor, or field service (L4-EMP-03)."
+ },
+ "L4-EMP-03": {
+  "name_en": "Robot Field Service Engineer",
+  "do_en": "Go to customer sites to install, calibrate, diagnose, and repair robots such as Spot and Stretch. Provide customer support.",
+  "skills_must_en": [
+   "Field install/calibration",
+   "Diagnosis and repair",
+   "Customer support",
+   "Travel"
+  ],
+  "skills_nice_en": [
+   "Electrical/mechanical",
+   "ROS basics"
+  ],
+  "week_en": "Follow dispatch orders to sites. Install, calibrate, diagnose, and repair. Train customers. Report issues and spare-part needs.",
+  "entry_time_en": "0-3 months with electrical or mechanical experience",
+  "barrier_en": "Requires technical experience. Frequent travel.",
+  "revenue_src_en": "Wage plus equity",
+  "risk_en": "Remote and self-diagnosis may reduce on-site demand.",
+  "next_en": "In 12-24 months, move to field service supervisor or application engineer."
+ },
+ "L4-EMP-04": {
+  "name_en": "Hardware Application / Integration Engineer (Dexterous Hands / Sensors)",
+  "do_en": "Integrate hardware like dexterous hands and tactile sensors into customer systems. Provide application support. A GitHub portfolio can replace a PhD.",
+  "skills_must_en": [
+   "Hardware integration",
+   "Application support",
+   "Programming and driver debugging"
+  ],
+  "skills_nice_en": [
+   "ROS",
+   "CAD",
+   "Customer demos"
+  ],
+  "week_en": "Monday, align on customer integration needs. Tuesday to Thursday, integrate hardware and write examples. Friday, support questions and feed back improvements.",
+  "entry_time_en": "0-3 months with a portfolio",
+  "barrier_en": "Requires demonstrable hardware or integration projects.",
+  "revenue_src_en": "Wage plus equity",
+  "risk_en": "Plug-and-play hardware may lower demand for integration support.",
+  "next_en": "In 12-24 months, move to application engineering lead or solutions engineer."
+ },
+ "L4-MICRO-01-WEST": {
+  "name_en": "SO-ARM/LeRobot Kit Assembly, Resale, and Bundling",
+  "do_en": "A team of one to five sources parts, 3D-prints structural pieces, and assembles ready-to-use SO-ARM/LeRobot kits in Western markets. They run QA, sell kits and bundles, and offer beginner support.",
+  "skills_must_en": [
+   "Supply chain sourcing",
+   "3D printing",
+   "Assembly and QA",
+   "Order fulfillment and support"
+  ],
+  "skills_nice_en": [
+   "Tutorials and documentation",
+   "Community marketing"
+  ],
+  "week_en": "Monday, stock parts and process orders. Tuesday to Thursday, assemble, QA, and ship. Friday, handle support, content marketing, and restocking.",
+  "entry_time_en": "1-3 months for supply, prototype, and store",
+  "barrier_en": "Requires stock capital and assembly capacity. Logistics and returns add load.",
+  "revenue_src_en": "Hardware sales margin",
+  "risk_en": "Large makers may mass-produce open-source designs cheaply. Margins are thin.",
+  "next_en": "In 12-24 months, build an own-brand education robot company."
+ },
+ "L4-MICRO-01-CN": {
+  "name_en": "SO-ARM/LeRobot Kit and Parts Manufacturing and Resale (Shenzhen Supply Chain)",
+  "do_en": "Using the Shenzhen supply chain along Seeed Studio and Waveshare routes, manufacture and sell full SO-ARM kits and parts. Win on cost and capacity, selling worldwide.",
+  "skills_must_en": [
+   "BOM and manufacturing",
+   "Supply chain",
+   "Batch QA",
+   "Cross-border e-commerce"
+  ],
+  "skills_nice_en": [
+   "Open-source hardware iteration",
+   "Overseas channels"
+  ],
+  "week_en": "Organize manufacturing and inspection of parts and full units. Run cross-border stores and distribution. Ship by volume and iterate the design.",
+  "entry_time_en": "1-3 months to set up the supply chain",
+  "barrier_en": "Requires supply chain relationships and stock capital.",
+  "revenue_src_en": "Manufacturing sales margin",
+  "risk_en": "Homogenized price wars hurt margins. Large makers crush on scale.",
+  "next_en": "In 12-24 months, build an open-source robot hardware brand or ODM."
+ },
+ "L4-MICRO-02": {
+  "name_en": "3D-Printed Robot Parts / STL Seller",
+  "do_en": "Sell 3D-printed SO-ARM/LeRobot structural parts or digital STL files on Etsy, Tindie, and MakerWorld. Designs come from The Robot Studio open-source CAD.",
+  "skills_must_en": [
+   "FDM/resin printing",
+   "Post-processing",
+   "STL fulfillment"
+  ],
+  "skills_nice_en": [
+   "Design improvement",
+   "Store operations"
+  ],
+  "week_en": "Monday, take orders and prepare materials. Tuesday to Thursday, print, post-process, and ship. Friday, list new items and STLs, and handle support.",
+  "entry_time_en": "A few weeks for a printer and first batch",
+  "barrier_en": "Requires a 3D printer. Physical-part profit is limited by print time.",
+  "revenue_src_en": "Physical part and STL sales",
+  "risk_en": "Anyone can print open-source parts. Price pressure is high.",
+  "next_en": "In 12-24 months, upgrade to full kit resale (L4-MICRO-01-WEST)."
+ },
+ "L4-MICRO-03": {
+  "name_en": "Robot Accessory / Mounting Kit Maker",
+  "do_en": "Design and sell accessories and modular mounting kits for robots like Unitree Go2 and G1. Kits include Picatinny rails and payload mounts. A team of one to five does small-batch production.",
+  "skills_must_en": [
+   "Fusion 360 design",
+   "Rail/mount systems",
+   "Printing and shipping"
+  ],
+  "skills_nice_en": [
+   "CNC/sheet metal",
+   "E-commerce operations"
+  ],
+  "week_en": "Monday to Tuesday, design and iterate accessories. Wednesday to Thursday, produce and ship. Friday, list, market, and handle support.",
+  "entry_time_en": "1-2 months for design and first batch",
+  "barrier_en": "Requires design and manufacturing skill. The niche market is small.",
+  "revenue_src_en": "Accessory sales margin",
+  "risk_en": "Platform models may change or end. Knockoff competition exists.",
+  "next_en": "In 12-24 months, build a robot accessory brand or distribution."
+ },
+ "L4-SOLO-01": {
+  "name_en": "Freelance Robot CAD / 3D Printing Designer",
+  "do_en": "Take robot and humanoid concept and part jobs on Upwork and Cad Crowd. Work covers CAD design, reverse engineering, rendering, and print-ready DFM.",
+  "skills_must_en": [
+   "SolidWorks/Fusion 360",
+   "Reverse engineering",
+   "Rendering",
+   "Print DFM"
+  ],
+  "skills_nice_en": [
+   "Simulation",
+   "Mechanism design"
+  ],
+  "week_en": "Monday, bid on jobs. Tuesday to Thursday, produce CAD, render, and revise. Friday, deliver, review pricing, and update the portfolio.",
+  "entry_time_en": "1-3 months for a profile and case work",
+  "barrier_en": "Requires a CAD portfolio. Platforms take a cut.",
+  "revenue_src_en": "Freelance contracts",
+  "risk_en": "AI-assisted CAD and generative design may push prices down.",
+  "next_en": "In 12-24 months, start a robot design studio or join a hardware company."
+ },
+ "L4-SOLO-02": {
+  "name_en": "Open-Source Hardware Kit Community / Developer Relations (Contract)",
+  "do_en": "Do community and developer relations on contract for open-source hardware makers. Run Discord, write integration guides, and demo at events. Earn sponsorships, affiliate income, and contract fees.",
+  "skills_must_en": [
+   "Community management",
+   "Documentation and integration guides",
+   "Live demos"
+  ],
+  "skills_nice_en": [
+   "Own hardware demos",
+   "Multilingual",
+   "Video"
+  ],
+  "week_en": "Monday, answer community questions. Tuesday to Wednesday, write guides and build integration demos. Thursday, run events or streams. Friday, align with makers and create affiliate content.",
+  "entry_time_en": "3-6 months to build community influence",
+  "barrier_en": "Requires community reputation and hardware familiarity.",
+  "revenue_src_en": "Contract fees plus sponsorship and affiliate income",
+  "risk_en": "Maker budgets fluctuate. Community platforms change.",
+  "next_en": "In 12-24 months, join DevRel (L1-EMP-01) or run own content (L1-SOLO-03)."
+ },
+ "L5-EMP-01": {
+  "name_en": "Forward-Deployed / Solutions Engineer (Robotics Middleware)",
+  "do_en": "Run customer-facing end-to-end deployments at a robotics middleware company. Bring the platform onto customer robots and fleets. Handle integration and hardware prototyping.",
+  "skills_must_en": [
+   "Python/C++",
+   "ROS familiarity",
+   "Customer deployment delivery",
+   "Hardware prototyping"
+  ],
+  "skills_nice_en": [
+   "TypeScript",
+   "LLM/AI workflows",
+   "Cloud"
+  ],
+  "week_en": "Monday: meet customers. Tuesday to Thursday: integrate the platform and bring fleets online. Friday: deliver, feed back to product, and travel sometimes.",
+  "entry_time_en": "0-3 months with a software or integration background",
+  "barrier_en": "Requires software ability. Some travel needed.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Platform self-service features reduce the headcount needed for deployment.",
+  "next_en": "12-24 months to solutions lead or fleet integration consultant (L5-MICRO-01)."
+ },
+ "L5-EMP-02": {
+  "name_en": "Robotics Software Engineer (ROS2, Non-PhD Path)",
+  "do_en": "Write ROS2 software covering navigation, Nav2, integration, and SDKs. Open to self-taught and bootcamp software backgrounds. No PhD required.",
+  "skills_must_en": [
+   "ROS2",
+   "Python/C++",
+   "Nav2",
+   "Software fundamentals"
+  ],
+  "skills_nice_en": [
+   "SLAM",
+   "Cloud",
+   "CI/CD"
+  ],
+  "week_en": "Monday: plan the schedule. Tuesday to Thursday: write and debug ROS2 features and integration. Friday: review, test, and release.",
+  "entry_time_en": "3-9 months to self-learn ROS2 to a hireable level",
+  "barrier_en": "Requires solid software ability and a portfolio. A PhD is not required.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "AI-assisted coding compresses junior roles.",
+  "next_en": "12-24 months to senior, middleware lead, or freelance ROS2 developer (L5-SOLO-01)."
+ },
+ "L5-EMP-03": {
+  "name_en": "Robotics Technical / Application Support Engineer (AMR Fleets)",
+  "do_en": "Provide after-sales technical support for AMR fleets. Handle CI/CD deployment, troubleshooting, and customer support.",
+  "skills_must_en": [
+   "ROS2",
+   "CI/CD deployment",
+   "System troubleshooting",
+   "Customer support"
+  ],
+  "skills_nice_en": [
+   "Linux operations",
+   "Networking"
+  ],
+  "week_en": "Monday to Friday: handle customer tickets, deploy updates, and troubleshoot remotely. Escalate critical issues. Send product feedback back.",
+  "entry_time_en": "0-3 months",
+  "barrier_en": "Requires ROS and operations basics.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "Remote self-diagnosis reduces support demand.",
+  "next_en": "12-24 months to solutions or deployment engineer (L5-EMP-01)."
+ },
+ "L5-EMP-04": {
+  "name_en": "Robotics DevOps/SRE and Functional Safety Engineer",
+  "do_en": "Run DevOps, SRE, and functional safety for safety-critical robotics stacks. Build deployment pipelines and V&V. Support safety certification.",
+  "skills_must_en": [
+   "SRE/DevOps tooling",
+   "Linux",
+   "ROS2 integration",
+   "V&V and safety certification"
+  ],
+  "skills_nice_en": [
+   "Embedded C++",
+   "Compliance standards (SIL)"
+  ],
+  "week_en": "Monday to Thursday: maintain deployment and CI, run V&V and safety cases, and monitor. Friday: write compliance docs and release.",
+  "entry_time_en": "3-6 months with a DevOps or embedded background",
+  "barrier_en": "Requires DevOps skills plus safety methodology.",
+  "revenue_src_en": "Salary plus equity",
+  "risk_en": "The safety market depends on regulatory progress.",
+  "next_en": "12-24 months to safety or platform engineering lead."
+ },
+ "L5-SOLO-01": {
+  "name_en": "Freelance ROS/ROS2 Software Developer",
+  "do_en": "Take ROS and ROS2 contracts on Upwork and Arc.dev. Work covers SLAM, PX4, and autonomous navigation.",
+  "skills_must_en": [
+   "ROS2",
+   "LiDAR SLAM",
+   "PX4",
+   "Python/C++"
+  ],
+  "skills_nice_en": [
+   "Simulation",
+   "Cloud",
+   "Client communication"
+  ],
+  "week_en": "Monday: bid on jobs. Tuesday to Thursday: write and debug ROS2 code. Friday: deliver, demo, and review.",
+  "entry_time_en": "1-3 months to build a profile and case studies",
+  "barrier_en": "Requires a portfolio. Platforms take a cut.",
+  "revenue_src_en": "Freelance contracts",
+  "risk_en": "AI-assisted coding pushes prices down. Offshore competition adds pressure.",
+  "next_en": "12-24 months to fleet integration consultant (L5-MICRO-01) or employment (L5-EMP-02)."
+ },
+ "L5-SOLO-02": {
+  "name_en": "Robotics Platform Plugin / Module Developer (Viam/Foxglove)",
+  "do_en": "Build and publish modules or panels on the Viam Registry or Foxglove extension marketplace. Viam handles billing. Earn distribution income or consulting leads.",
+  "skills_must_en": [
+   "Go/Python/C++/Rust",
+   "Viam component/service API or Foxglove SDK",
+   "GitHub Actions"
+  ],
+  "skills_nice_en": [
+   "TypeScript/React",
+   "ROS schema"
+  ],
+  "week_en": "Monday to Wednesday: build and test modules or extensions. Thursday: publish and write docs. Friday: track adoption and take consulting or custom work.",
+  "entry_time_en": "2-6 weeks for the first module",
+  "barrier_en": "Paid distribution is early-stage. Monetization is uncertain.",
+  "revenue_src_en": "Module distribution and resulting consulting",
+  "risk_en": "Paid distribution mechanisms are immature. Platform policy can change.",
+  "next_en": "12-24 months to a vertical SaaS built on the platform (L5-MICRO-02)."
+ },
+ "L5-SOLO-03": {
+  "name_en": "Open-Source Robotics Middleware Maintainer (GitHub Sponsors)",
+  "do_en": "Maintain open-source robotics middleware such as dora-rs or ROS packages. Earn through GitHub Sponsors, consulting, and bounties.",
+  "skills_must_en": [
+   "Rust",
+   "Dataflow architecture",
+   "ROS interoperability",
+   "OSS maintenance"
+  ],
+  "skills_nice_en": [
+   "Documentation",
+   "Community management"
+  ],
+  "week_en": "Monday to Wednesday: develop, maintain, and handle issues and PRs. Thursday: release. Friday: take consulting and maintain the sponsor page.",
+  "entry_time_en": "6-12 months to build project influence",
+  "barrier_en": "Requires systems programming skills. Sponsorship scales slowly.",
+  "revenue_src_en": "Sponsorships, consulting, and bounties",
+  "risk_en": "Pure OSS is hard to monetize. Large firms dominate the space.",
+  "next_en": "12-24 months to recruitment by a middleware company or a commercial project."
+ },
+ "L5-MICRO-01": {
+  "name_en": "Robotics Fleet Integration Consulting (1-5 People)",
+  "do_en": "Run a 1-5 person studio deploying Formant or InOrbit fleet operations and teleoperation for customers. Do cloud robotics integration.",
+  "skills_must_en": [
+   "Fleet management",
+   "Teleoperation setup",
+   "Cloud robotics integration",
+   "Python/TypeScript"
+  ],
+  "skills_nice_en": [
+   "Industry domain knowledge",
+   "Sales"
+  ],
+  "week_en": "Monday: meet customers. Tuesday to Thursday: integrate and deploy fleet operations. Friday: deliver, maintain, and discuss renewals or new deals.",
+  "entry_time_en": "1-3 months to the first deal",
+  "barrier_en": "Requires platform expertise plus customer relationships.",
+  "revenue_src_en": "Project fees and monthly retainers",
+  "risk_en": "Platform self-service grows. Customers build their own teams.",
+  "next_en": "12-24 months to a regional robotics integration services firm."
+ },
+ "L5-MICRO-02": {
+  "name_en": "Vertical SaaS Micro-App on Viam/Formant",
+  "do_en": "Run a 1-5 person team building a vertical robotics SaaS app on Viam or Formant. Charge customers for it.",
+  "skills_must_en": [
+   "Platform SDK/API",
+   "Web app development",
+   "Vertical specialization",
+   "Deployment"
+  ],
+  "skills_nice_en": [
+   "Growth",
+   "Design"
+  ],
+  "week_en": "Monday: review user feedback. Tuesday to Thursday: build vertical app features. Friday: ship, onboard customers, and market.",
+  "entry_time_en": "3-6 months to an MVP and first customers",
+  "barrier_en": "Requires platform plus app development skills and vertical customers.",
+  "revenue_src_en": "SaaS subscriptions",
+  "risk_en": "Platform policy or pricing can change. Vertical demand may be limited.",
+  "next_en": "12-24 months to a vertical robotics SaaS company."
+ },
+ "L6-EMP-01": {
+  "name_en": "Remote Robot Operator / Takeover Intervention Specialist",
+  "do_en": "Work as a remote operator. Monitor video from warehouse picking and sidewalk delivery robots. Take control when something goes wrong. Low entry bar, with paid training included.",
+  "skills_must_en": [
+   "Fast reaction time",
+   "Exception takeover",
+   "Teleoperation dashboards",
+   "Stable internet"
+  ],
+  "skills_nice_en": [
+   "Navigation judgment",
+   "Multiple robot models"
+  ],
+  "week_en": "Each shift, monitor video feeds from several robots. Take remote control when faults appear. Log each intervention and hand off to the next shift.",
+  "entry_time_en": "A few days (30 hours of paid training)",
+  "barrier_en": "Needs stable internet. Shift work. Some roles are on-site.",
+  "revenue_src_en": "Hourly wage",
+  "risk_en": "Higher autonomy lets one person manage more robots. This compresses the number of positions.",
+  "next_en": "12-24 months to fleet supervisor or deployment manager (L6-EMP-03)."
+ },
+ "L6-EMP-02": {
+  "name_en": "Vertical Robot Field Deployment / Service Technician",
+  "do_en": "Visit customer sites to install, configure, and repair vertical-industry robots in warehousing, agriculture, and food. Run control and safety tests. Train customers. Roles often span several verticals.",
+  "skills_must_en": [
+   "On-site install and setup",
+   "Electromechanical troubleshooting",
+   "Control and safety testing",
+   "On-site customer support"
+  ],
+  "skills_nice_en": [
+   "Data collection and labeling help",
+   "Industry knowledge"
+  ],
+  "week_en": "Take dispatch tickets and go on-site to install and configure robots. Run safety tests and training. Fix faults and report issues back.",
+  "entry_time_en": "0-3 months (with electromechanical experience)",
+  "barrier_en": "Needs electromechanical basics. Involves travel and on-site work.",
+  "revenue_src_en": "Wage plus equity",
+  "risk_en": "Remote diagnostics and more reliable hardware reduce the need for on-site visits.",
+  "next_en": "12-24 months to deployment manager, regional service lead, or own integration shop (L6-MICRO-01)."
+ },
+ "L6-EMP-03": {
+  "name_en": "RaaS Customer Success / Deployment Manager",
+  "do_en": "Own RaaS customer accounts. Manage deployments and analyze results. Drive expansion and repeat purchases. Coordinate across departments.",
+  "skills_must_en": [
+   "Customer relationship management",
+   "Deployment data analysis",
+   "Expansion and repeat sales",
+   "Cross-functional coordination"
+  ],
+  "skills_nice_en": [
+   "Industry knowledge",
+   "Project management"
+  ],
+  "week_en": "Monday, set customer success plans. Tuesday to Thursday, track deployment results, align with customers, and push expansion. Friday, review metrics and coordinate internally.",
+  "entry_time_en": "0-3 months (with CSM or deployment experience)",
+  "barrier_en": "Needs customer success or deployment experience.",
+  "revenue_src_en": "Wage plus equity",
+  "risk_en": "RaaS demand swings with customer budgets.",
+  "next_en": "12-24 months to customer success director or regional lead."
+ },
+ "L6-EMP-04": {
+  "name_en": "Commercial Drone Operator / Part 107 Pilot (Employed)",
+  "do_en": "Work as an employee doing drone mapping and data capture on construction and infrastructure sites. Flights are autonomous. Holds an FAA Part 107 certificate.",
+  "skills_must_en": [
+   "FAA Part 107",
+   "Site mapping (DroneDeploy)",
+   "Data collection",
+   "Autonomous flight operation"
+  ],
+  "skills_nice_en": [
+   "Photogrammetry",
+   "GIS"
+  ],
+  "week_en": "For each project, go on-site and plan flight routes. Fly to capture data. Process the data and deliver the results.",
+  "entry_time_en": "1-2 months (pass Part 107 plus gain proficiency)",
+  "barrier_en": "Needs a Part 107 certificate. Involves on-site work and travel.",
+  "revenue_src_en": "Hourly wage",
+  "risk_en": "Fully autonomous drones reduce demand for human pilots.",
+  "next_en": "12-24 months to own drone service (L6-SOLO-01) or a service company (L6-MICRO-03)."
+ },
+ "L6-SOLO-01": {
+  "name_en": "Part 107 Drone Inspection / Mapping Solo Operator",
+  "do_en": "Hold a Part 107 certificate and fly Skydio or DJI drones. Provide inspection and mapping for construction, infrastructure, and agriculture. Bill by hour, project, or acre.",
+  "skills_must_en": [
+   "FAA Part 107",
+   "Photogrammetry and thermal inspection",
+   "Flight route planning",
+   "Data deliverable handoff"
+  ],
+  "skills_nice_en": [
+   "GIS",
+   "NDVI multispectral",
+   "Sales"
+  ],
+  "week_en": "Monday, take orders and plan. Tuesday to Thursday, fly on-site and capture data. Friday, process data, deliver reports, and find clients.",
+  "entry_time_en": "1-3 months (certificate, equipment, and first order)",
+  "barrier_en": "Needs Part 107 plus drone equipment.",
+  "revenue_src_en": "Per-hour, per-project, or per-acre fees",
+  "risk_en": "Fully autonomous inspection platforms emerge. A saturated market pushes prices down.",
+  "next_en": "12-24 months to a drone service company (L6-MICRO-03)."
+ },
+ "L6-SOLO-02": {
+  "name_en": "Agricultural Robot Weeding Contractor (Weeding-as-a-Service)",
+  "do_en": "Own or rent laser or mechanical weeding robots. Offer weeding-as-a-service to farms. Bill by the acre.",
+  "skills_must_en": [
+   "Field machine operation",
+   "Per-acre service operations",
+   "Crop-weed calibration",
+   "Seasonal scheduling"
+  ],
+  "skills_nice_en": [
+   "Agronomy knowledge",
+   "Equipment maintenance"
+  ],
+  "week_en": "Run weeding robots in fields on each farm's schedule. Bill by the acre. Maintain equipment and add clients by season.",
+  "entry_time_en": "3-6 months (buy or rent equipment plus first farms)",
+  "barrier_en": "High equipment capital to buy, or rental needed. Strongly seasonal.",
+  "revenue_src_en": "Per-acre service fees",
+  "risk_en": "Farms buy their own equipment. Vendor direct RaaS squeezes out middleman contractors.",
+  "next_en": "12-24 months to a regional agricultural robot service company."
+ },
+ "L6-SOLO-03": {
+  "name_en": "Autonomous Floor Scrubber Owner-Operator (Cleaning Service)",
+  "do_en": "Buy autonomous floor scrubbing robots. Take on commercial cleaning contracts. The robots replace large amounts of manual floor work.",
+  "skills_must_en": [
+   "Scrubber operation and charging",
+   "Route setup",
+   "Cleaning contract sales",
+   "Basic maintenance"
+  ],
+  "skills_nice_en": [
+   "Multi-site operations",
+   "B2B sales"
+  ],
+  "week_en": "Deploy robots to contract sites for night cleaning. By day, inspect, maintain, and find new contracts. Bill by area or contract.",
+  "entry_time_en": "1-3 months (buy machine plus first contract)",
+  "barrier_en": "Machine capital required, or RaaS rental.",
+  "revenue_src_en": "Cleaning contracts (by area)",
+  "risk_en": "Vendor direct RaaS bypasses solo operators. Cleaning prices fall in a price war.",
+  "next_en": "12-24 months to a regional cleaning robot RaaS (L6-MICRO-01)."
+ },
+ "L6-MICRO-01": {
+  "name_en": "Regional RaaS Reseller / Deployment Integrator",
+  "do_en": "A team of 1-5 resells and integrates regional robot-as-a-service for cleaning, security, and service robots. Work covers on-site deployment, training, account management, and preventive maintenance.",
+  "skills_must_en": [
+   "On-site deployment and training",
+   "Account management",
+   "Preventive maintenance",
+   "Channel sales"
+  ],
+  "skills_nice_en": [
+   "Financing and subscription setup",
+   "Multi-brand integration"
+  ],
+  "week_en": "Monday to Tuesday, channel sales and financing plans. Wednesday to Thursday, deploy, train, and maintain. Friday, manage accounts, hold SLAs, and grow the team.",
+  "entry_time_en": "1-3 months (channel plus first deployments)",
+  "barrier_en": "Needs channel relationships, service capability, and working capital.",
+  "revenue_src_en": "RaaS subscription revenue share",
+  "risk_en": "Vendors selling direct bypass resellers. RaaS prices compress.",
+  "next_en": "12-24 months to a regional robot deployment service company."
+ },
+ "L6-MICRO-02": {
+  "name_en": "Vertical Robot Adoption Consultant for SMBs",
+  "do_en": "A team of 1-5 helps small businesses in food, warehousing, and cleaning adopt robots. Services cover needs assessment, ROI modeling, vendor selection, deployment PM, and change management.",
+  "skills_must_en": [
+   "Needs assessment and ROI modeling",
+   "Vendor selection",
+   "Deployment project management",
+   "Change management"
+  ],
+  "skills_nice_en": [
+   "Industry contacts",
+   "Data analysis"
+  ],
+  "week_en": "Monday to Tuesday, client diagnosis and ROI modeling. Wednesday to Thursday, vendor selection and deployment PM. Friday, track results and manage staff change.",
+  "entry_time_en": "1-2 months (first client)",
+  "barrier_en": "Needs industry contacts and consulting credibility.",
+  "revenue_src_en": "Consulting fees or retainer",
+  "risk_en": "Vendors offer free deployment consulting. RaaS lowers decision complexity.",
+  "next_en": "12-24 months to a vertical robot integration or consulting firm."
+ },
+ "L6-MICRO-03": {
+  "name_en": "Construction / Infrastructure Drone Service Company (1-5 people)",
+  "do_en": "A drone service company of 1-5 people. Serves construction and infrastructure clients on a retainer model. Delivers recurring mapping, inspection, and data reports.",
+  "skills_must_en": [
+   "Part 107 team operations",
+   "Recurring mapping cadence",
+   "Data processing and reporting",
+   "Retainer client management"
+  ],
+  "skills_nice_en": [
+   "Multiple drone models",
+   "GIS",
+   "Business development"
+  ],
+  "week_en": "Monday, schedule multi-site flights. Tuesday to Thursday, the team flies and captures data. Friday, process data, report, manage retainers, and find clients.",
+  "entry_time_en": "1-3 months (build team, equipment, and first retainers)",
+  "barrier_en": "Needs several certified pilots, equipment, and client contracts.",
+  "revenue_src_en": "Monthly retainer plus projects",
+  "risk_en": "Fully autonomous docked drones, such as Skydio Dock, replace manual service.",
+  "next_en": "12-24 months to a regional drone or geospatial data company."
+ }
+}

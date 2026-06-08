@@ -1,0 +1,122 @@
+{
+  "L4-EMP-01": {
+    "name_en": "Humanoid Robot Operator / Teleoperation Data Pilot",
+    "do_en": "Wear teleoperation or motion-capture gear to drive humanoid robots and collect training data. Follow set procedures, log failures, and upload sessions. A high school diploma is enough to start.",
+    "skills_must_en": ["Wearing teleop/motion-capture gear", "Following written procedures", "Data upload and labeling", "Physical stamina (lifting, long standing)"],
+    "skills_nice_en": ["Multiple robot models", "Fault logging"],
+    "week_en": "Each shift, wear the gear and guide robots through behaviors for data collection. Label each session. File failure tickets. Set up the work environment.",
+    "entry_time_en": "A few days to two weeks of training",
+    "barrier_en": "Requires a nearby lab. Physical stamina needed. Most work is on-site.",
+    "revenue_src_en": "Hourly wage",
+    "risk_en": "Autonomy and simulated data may cut the need for on-site collection.",
+    "next_en": "In 12-24 months, move to operations supervisor, data operations, or test technician (L4-EMP-02)."
+  },
+  "L4-EMP-02": {
+    "name_en": "Robot Assembly and Test Technician",
+    "do_en": "Assemble robot subassemblies by procedure. Run powered tests and hardware QA using oscilloscopes and multimeters. Record defects. No PhD required.",
+    "skills_must_en": ["Procedural assembly", "Oscilloscope/multimeter testing", "Hardware QA", "Defect recording"],
+    "skills_nice_en": ["Soldering", "Mechanical/electronics basics"],
+    "week_en": "Assemble subassemblies from work orders. Run bring-up tests and QA. Record and report defects. Support engineering iterations.",
+    "entry_time_en": "A few weeks of on-the-job training",
+    "barrier_en": "Requires a nearby factory. Hands-on ability needed.",
+    "revenue_src_en": "Wage",
+    "risk_en": "Production lines automate. Mass production may move to low-cost regions.",
+    "next_en": "In 12-24 months, move to test engineer, line supervisor, or field service (L4-EMP-03)."
+  },
+  "L4-EMP-03": {
+    "name_en": "Robot Field Service Engineer",
+    "do_en": "Go to customer sites to install, calibrate, diagnose, and repair robots such as Spot and Stretch. Provide customer support.",
+    "skills_must_en": ["Field install/calibration", "Diagnosis and repair", "Customer support", "Travel"],
+    "skills_nice_en": ["Electrical/mechanical", "ROS basics"],
+    "week_en": "Follow dispatch orders to sites. Install, calibrate, diagnose, and repair. Train customers. Report issues and spare-part needs.",
+    "entry_time_en": "0-3 months with electrical or mechanical experience",
+    "barrier_en": "Requires technical experience. Frequent travel.",
+    "revenue_src_en": "Wage plus equity",
+    "risk_en": "Remote and self-diagnosis may reduce on-site demand.",
+    "next_en": "In 12-24 months, move to field service supervisor or application engineer."
+  },
+  "L4-EMP-04": {
+    "name_en": "Hardware Application / Integration Engineer (Dexterous Hands / Sensors)",
+    "do_en": "Integrate hardware like dexterous hands and tactile sensors into customer systems. Provide application support. A GitHub portfolio can replace a PhD.",
+    "skills_must_en": ["Hardware integration", "Application support", "Programming and driver debugging"],
+    "skills_nice_en": ["ROS", "CAD", "Customer demos"],
+    "week_en": "Monday, align on customer integration needs. Tuesday to Thursday, integrate hardware and write examples. Friday, support questions and feed back improvements.",
+    "entry_time_en": "0-3 months with a portfolio",
+    "barrier_en": "Requires demonstrable hardware or integration projects.",
+    "revenue_src_en": "Wage plus equity",
+    "risk_en": "Plug-and-play hardware may lower demand for integration support.",
+    "next_en": "In 12-24 months, move to application engineering lead or solutions engineer."
+  },
+  "L4-MICRO-01-WEST": {
+    "name_en": "SO-ARM/LeRobot Kit Assembly, Resale, and Bundling",
+    "do_en": "A team of one to five sources parts, 3D-prints structural pieces, and assembles ready-to-use SO-ARM/LeRobot kits in Western markets. They run QA, sell kits and bundles, and offer beginner support.",
+    "skills_must_en": ["Supply chain sourcing", "3D printing", "Assembly and QA", "Order fulfillment and support"],
+    "skills_nice_en": ["Tutorials and documentation", "Community marketing"],
+    "week_en": "Monday, stock parts and process orders. Tuesday to Thursday, assemble, QA, and ship. Friday, handle support, content marketing, and restocking.",
+    "entry_time_en": "1-3 months for supply, prototype, and store",
+    "barrier_en": "Requires stock capital and assembly capacity. Logistics and returns add load.",
+    "revenue_src_en": "Hardware sales margin",
+    "risk_en": "Large makers may mass-produce open-source designs cheaply. Margins are thin.",
+    "next_en": "In 12-24 months, build an own-brand education robot company."
+  },
+  "L4-MICRO-01-CN": {
+    "name_en": "SO-ARM/LeRobot Kit and Parts Manufacturing and Resale (Shenzhen Supply Chain)",
+    "do_en": "Using the Shenzhen supply chain along Seeed Studio and Waveshare routes, manufacture and sell full SO-ARM kits and parts. Win on cost and capacity, selling worldwide.",
+    "skills_must_en": ["BOM and manufacturing", "Supply chain", "Batch QA", "Cross-border e-commerce"],
+    "skills_nice_en": ["Open-source hardware iteration", "Overseas channels"],
+    "week_en": "Organize manufacturing and inspection of parts and full units. Run cross-border stores and distribution. Ship by volume and iterate the design.",
+    "entry_time_en": "1-3 months to set up the supply chain",
+    "barrier_en": "Requires supply chain relationships and stock capital.",
+    "revenue_src_en": "Manufacturing sales margin",
+    "risk_en": "Homogenized price wars hurt margins. Large makers crush on scale.",
+    "next_en": "In 12-24 months, build an open-source robot hardware brand or ODM."
+  },
+  "L4-MICRO-02": {
+    "name_en": "3D-Printed Robot Parts / STL Seller",
+    "do_en": "Sell 3D-printed SO-ARM/LeRobot structural parts or digital STL files on Etsy, Tindie, and MakerWorld. Designs come from The Robot Studio open-source CAD.",
+    "skills_must_en": ["FDM/resin printing", "Post-processing", "STL fulfillment"],
+    "skills_nice_en": ["Design improvement", "Store operations"],
+    "week_en": "Monday, take orders and prepare materials. Tuesday to Thursday, print, post-process, and ship. Friday, list new items and STLs, and handle support.",
+    "entry_time_en": "A few weeks for a printer and first batch",
+    "barrier_en": "Requires a 3D printer. Physical-part profit is limited by print time.",
+    "revenue_src_en": "Physical part and STL sales",
+    "risk_en": "Anyone can print open-source parts. Price pressure is high.",
+    "next_en": "In 12-24 months, upgrade to full kit resale (L4-MICRO-01-WEST)."
+  },
+  "L4-MICRO-03": {
+    "name_en": "Robot Accessory / Mounting Kit Maker",
+    "do_en": "Design and sell accessories and modular mounting kits for robots like Unitree Go2 and G1. Kits include Picatinny rails and payload mounts. A team of one to five does small-batch production.",
+    "skills_must_en": ["Fusion 360 design", "Rail/mount systems", "Printing and shipping"],
+    "skills_nice_en": ["CNC/sheet metal", "E-commerce operations"],
+    "week_en": "Monday to Tuesday, design and iterate accessories. Wednesday to Thursday, produce and ship. Friday, list, market, and handle support.",
+    "entry_time_en": "1-2 months for design and first batch",
+    "barrier_en": "Requires design and manufacturing skill. The niche market is small.",
+    "revenue_src_en": "Accessory sales margin",
+    "risk_en": "Platform models may change or end. Knockoff competition exists.",
+    "next_en": "In 12-24 months, build a robot accessory brand or distribution."
+  },
+  "L4-SOLO-01": {
+    "name_en": "Freelance Robot CAD / 3D Printing Designer",
+    "do_en": "Take robot and humanoid concept and part jobs on Upwork and Cad Crowd. Work covers CAD design, reverse engineering, rendering, and print-ready DFM.",
+    "skills_must_en": ["SolidWorks/Fusion 360", "Reverse engineering", "Rendering", "Print DFM"],
+    "skills_nice_en": ["Simulation", "Mechanism design"],
+    "week_en": "Monday, bid on jobs. Tuesday to Thursday, produce CAD, render, and revise. Friday, deliver, review pricing, and update the portfolio.",
+    "entry_time_en": "1-3 months for a profile and case work",
+    "barrier_en": "Requires a CAD portfolio. Platforms take a cut.",
+    "revenue_src_en": "Freelance contracts",
+    "risk_en": "AI-assisted CAD and generative design may push prices down.",
+    "next_en": "In 12-24 months, start a robot design studio or join a hardware company."
+  },
+  "L4-SOLO-02": {
+    "name_en": "Open-Source Hardware Kit Community / Developer Relations (Contract)",
+    "do_en": "Do community and developer relations on contract for open-source hardware makers. Run Discord, write integration guides, and demo at events. Earn sponsorships, affiliate income, and contract fees.",
+    "skills_must_en": ["Community management", "Documentation and integration guides", "Live demos"],
+    "skills_nice_en": ["Own hardware demos", "Multilingual", "Video"],
+    "week_en": "Monday, answer community questions. Tuesday to Wednesday, write guides and build integration demos. Thursday, run events or streams. Friday, align with makers and create affiliate content.",
+    "entry_time_en": "3-6 months to build community influence",
+    "barrier_en": "Requires community reputation and hardware familiarity.",
+    "revenue_src_en": "Contract fees plus sponsorship and affiliate income",
+    "risk_en": "Maker budgets fluctuate. Community platforms change.",
+    "next_en": "In 12-24 months, join DevRel (L1-EMP-01) or run own content (L1-SOLO-03)."
+  }
+}
