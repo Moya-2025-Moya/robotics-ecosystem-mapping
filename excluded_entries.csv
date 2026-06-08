@@ -1,0 +1,12 @@
+company_name,original_layer,exclusion_reason
+"Niantic Spatial, Inc.",L1_foundation_model,AR/geospatial localization; robot/drone is a claimed use case but core is AR positioning
+Wayve,L1_foundation_model,"AV company; product category is ""car + driving AI"", not a new AI-native robot category"
+Cognata,L2_simulation,AV-only simulation; product category is autonomous vehicle testing
+Inverted AI,L2_simulation,AV behavior simulation only
+Abundant,L3_data_infra,not genuine robotics-AI / unconfirmed
+RISE Robotics,L4_hardware,not genuine robotics-AI / unconfirmed
+SyncSoft AI,L5_middleware,not genuine robotics-AI / unconfirmed; GATE2 scope filter: product category exists without AI
+Quasi Robotics,L5_middleware,GATE2 scope filter: product category exists without AI
+Kite Compliance,L5_middleware,not genuine robotics-AI / unconfirmed
+Moon Surgical,L6_vertical,GATE2 scope filter: product category exists without AI
+Civ Robotics,L6_vertical,No learned policy; RTK-GNSS classical surveying/layout tool (per GATE2 review)

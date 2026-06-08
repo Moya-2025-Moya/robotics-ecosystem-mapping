@@ -1,0 +1,51 @@
+search_query,source,date_searched,relevant_results_count,notes
+VLA / vision-language-action robot foundation model companies & labs,WebSearch + company sites/news,2026-06-08,24,"Angle 1 of L1. Physical Intelligence, Skild, Covariant, Figure Helix, DeepMind RT-2, etc."
+diffusion policy / action chunking / behavior cloning manipulation startups,WebSearch + arXiv/CoRL affiliations,2026-06-08,18,"Angle 2 of L1. Surfaced TRI, Dyna, Sunday Robotics (ACT lineage), Dexterity."
+world models / video-prediction for robotics & embodied AI,WebSearch + TechCrunch/Robot Report,2026-06-08,20,"Angle 3 of L1. World Labs, Luma, Runway, Decart, Odyssey, General Intuition, Niantic Spatial."
+"big-company robotics-AI divisions & major labs (GR00T, Gemini Robotics, Optimus, FAIR)",WebSearch + corporate newsrooms,2026-06-08,16,"Angle 4 of L1. NVIDIA, Google DeepMind, Tesla, Meta FAIR, Amazon, Microsoft, TRI, RAI Institute."
+"China embodied-AI / robot foundation model companies (36Kr, Jiqizhixin, ITJuzi)",WebSearch + Chinese-language sources,2026-06-08,38,"Angle 5 of L1 — largest yield. AgiBot, Galbot, Galaxea, RobotEra, X Square, Unitree, UBTECH, Fourier, Spirit AI, LimX, Booster, DexForce, Ant Lingbo, Baidu, Alibaba, ByteDance, Tencent, BAAI, etc."
+YC / seed-stage robot foundation model & embodied-AI startups (W2023-S2026),YC directory + WebSearch,2026-06-08,19,"Angle 6 of L1. Generalist AI, Field AI, Rhoda, Scout AI, RLWRLD, Cartwheel, Sereact, AMI Labs, Ultra, Azalea, Yondu."
+robot simulation platforms & physics engines for robot learning,WebSearch + project sites/GitHub,2026-06-08,14,"Angle 1 of L2. NVIDIA Isaac Sim/Lab/Omniverse, MuJoCo, Gazebo/OSRF, Genesis, CoppeliaSim, Webots, PyBullet, Unity."
+synthetic data generation & procedural scene generation for robotics,WebSearch + Crunchbase,2026-06-08,16,"Angle 2 of L2. Parallel Domain, Rendered.ai, SKY ENGINE, Anyverse, SBX Robotics, Duality AI, syntheticAIdata, DataMesh, Encord."
+digital twin & sim-to-real transfer tools for robotics,WebSearch + company sites,2026-06-08,12,"Angle 3 of L2. Robotec.ai, Telekinesis, Dexmate, Hillbot, Cognata, Applied Intuition."
+recent startups building world simulators / neural simulators for embodied AI,YC + WebSearch + arXiv,2026-06-08,13,"Angle 4 of L2. Genesis Embodied AI, Antioch, Parallax Worlds, Flexion, General Intuition, Maitrix, Sensei, Shotwell."
+China & non-US robot simulation / synthetic data companies,WebSearch + 36Kr/Jiqizhixin,2026-06-08,14,"Angle 5 of L2. Lightwheel, Manycore Tech (SpatialVerse), Shanghai AI Lab GRUtopia, RoboTwin, Noematrix, AgiBot Genie Sim."
+AI robotics startup funding 2025 2026,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+robot foundation model company,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+humanoid robot startup,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+sim to real robotics company,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+embodied AI company,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+robot simulation platform,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+robotics AI market map,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+人形机器人 公司 (humanoid robot China),WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+robot data collection platform,WebSearch (folded into discovery angles),2026-06-08,-,Mandated query from spec §3.2; results merged into angle outputs above.
+[dedup pass],workflow code,2026-06-08,11,11 cross-layer/variant-name duplicates merged (e.g. NVIDIA=Isaac GR00T; Galbot L1/L2; Genesis L1/L2; AgiBot L1/L2; 智平方; Noematrix; Boston Dynamics AI Institute=RAI Institute).
+[scope exclusions],QA judgment,2026-06-08,5,"Excluded real_robotics_ai=false: World Labs, Luma AI, syntheticAIdata, Sim2Real, Foretellix. World Labs/Luma=pure-software world models; Foretellix=AV-only sim; syntheticAIdata=generic synthetic data; Sim2Real=unverifiable/likely non-company. Listed here so they can be reinstated if Zian disagrees."
+[GATE2 L3] teleoperation & demonstration-data collection platforms for robot learning,WebSearch + Crunchbase/company sites,2026-06-08,-,L3 data-infra discovery angle. 48 raw hits.
+"[GATE2 L3] robot demonstration-data marketplaces / ""Scale AI for robotics"" data companies",WebSearch + Crunchbase/company sites,2026-06-08,-,L3 data-infra discovery angle. 48 raw hits.
+[GATE2 L3] robotics-specific data annotation / labeling / curation services,WebSearch + Crunchbase/company sites,2026-06-08,-,L3 data-infra discovery angle. 48 raw hits.
+[GATE2 L3] teleop hardware (exoskeleton/glove/haptic) + motion capture for robot data,WebSearch + Crunchbase/company sites,2026-06-08,-,L3 data-infra discovery angle. 48 raw hits.
+[GATE2 L3] China robot data-collection / teleoperation companies (机器人 数据采集),WebSearch + Crunchbase/company sites,2026-06-08,-,L3 data-infra discovery angle. 48 raw hits.
+[GATE2 L4] humanoid makers using third-party AI models (hardware-first),WebSearch + company sites/news,2026-06-08,-,L4 hardware discovery angle. 64 raw hits.
+[GATE2 L4] dexterous robotic hand companies,WebSearch + company sites/news,2026-06-08,-,L4 hardware discovery angle. 64 raw hits.
+[GATE2 L4] low-cost research robot arms / manipulator platforms,WebSearch + company sites/news,2026-06-08,-,L4 hardware discovery angle. 64 raw hits.
+[GATE2 L4] AI robot grippers & end-effectors,WebSearch + company sites/news,2026-06-08,-,L4 hardware discovery angle. 64 raw hits.
+[GATE2 L4] tactile/force sensors & AI sensor suites for robots,WebSearch + company sites/news,2026-06-08,-,L4 hardware discovery angle. 64 raw hits.
+[GATE2 L4] legged/quadruped robot makers (additional),WebSearch + company sites/news,2026-06-08,-,L4 hardware discovery angle. 64 raw hits.
+[GATE2 L4] novel actuators + China robot hardware/component makers,WebSearch + company sites/news,2026-06-08,-,L4 hardware discovery angle. 64 raw hits.
+[GATE2 L5] robot learning frameworks / policy training-deployment software,WebSearch + GitHub/product sites,2026-06-08,-,L5 middleware discovery angle. 30 raw hits.
+[GATE2 L5] edge inference runtimes for robotics,WebSearch + GitHub/product sites,2026-06-08,-,L5 middleware discovery angle. 30 raw hits.
+[GATE2 L5] robot fleet management & orchestration,WebSearch + GitHub/product sites,2026-06-08,-,L5 middleware discovery angle. 30 raw hits.
+[GATE2 L5] robot observability/monitoring/eval & data-ops,WebSearch + GitHub/product sites,2026-06-08,-,L5 middleware discovery angle. 30 raw hits.
+[GATE2 L5] ROS2 AI-native tooling / robot OS / robot cloud platforms,WebSearch + GitHub/product sites,2026-06-08,-,L5 middleware discovery angle. 30 raw hits.
+[GATE2 L5] robot safety runtime / guardrail startups,WebSearch + GitHub/product sites,2026-06-08,-,L5 middleware discovery angle. 30 raw hits.
+[GATE2 L6] warehouse & logistics picking robots (learned policy),WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+[GATE2 L6] manufacturing assembly/inspection AI robots,WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+[GATE2 L6] food-service / cooking / prep robots,WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+[GATE2 L6] agriculture harvesting/weeding AI robots,WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+[GATE2 L6] surgical/rehab/elder-care robots with learned policies,WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+[GATE2 L6] home/consumer/personal AI robots,WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+[GATE2 L6] construction & inspection AI robots/drones,WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+"[GATE2 L6] other AI-robot verticals (mining, lab automation, delivery, cleaning, security, recycling)",WebSearch + 36Kr/news,2026-06-08,-,L6 vertical discovery angle (AI-intensity bar applied). 61 raw hits.
+[GATE2 dedup+filter],workflow code + QA,2026-06-08,196,196 new entries added after dedup vs 97 known + reassignment/excluded names; 7 new entries routed to excluded_entries.csv (in_scope=false or unconfirmed).
+[GATE2 schema/corrections],QA per addendum A-D,2026-06-08,-,"Added entity_type/status columns (backfilled 97); moved Encord/Shotwell/SBX/Sensei L2->L3; excluded Wayve/Cognata/Inverted AI/Niantic; built reassignment_candidates.csv (27 L1->L4 proposals, not executed)."

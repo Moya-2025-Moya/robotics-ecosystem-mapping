@@ -1,0 +1,28 @@
+company_name,current_primary_layer,proposed_primary_layer,rationale
+Figure AI,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+1X Technologies,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Apptronik,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Unitree Robotics,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+UBTECH Robotics,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Sanctuary AI,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+AgiBot,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Galbot,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+RobotEra,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Fourier Intelligence,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+LimX Dynamics,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Booster Robotics (Accelerated Evolution / 加速进化),L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Astribot,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+X Square Robot,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+ZhiPingFang (智平方),L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Spirit AI (千寻智能),L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+TARS (Homestone Intelligence / 它石智航),L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+PaXini Technology,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+DAIMON Robotics,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Sunday Robotics,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Cartwheel Robotics,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Azalea Robotics,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Ultra,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Yondu,L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Ant Lingbo Technology (蚂蚁灵波),L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+Lingchu Intelligence (灵初智能),L1_foundation_model,L4_hardware,Hardware is the product; foundation model is internal (not separately sold/licensed). Per GATE2 Section C.
+"Tesla, Inc.",L1_foundation_model,L4_hardware,Optimus is hardware-primary; FSD-derived model is internal. Big-tech division per GATE2 Section C.
